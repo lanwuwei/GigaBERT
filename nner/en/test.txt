@@ -1,0 +1,1095 @@
+Interview With Ralph Nader , Donald Palmisano ; Interview With Congressmen J . D .	O O O O O O O O O O O O O O O
+Hayworth , Bernie Sanders	O O O O
+Welcome back .	O O O
+Both the AMA and the Bush administration released reports this week saying out of control trial lawyers are driving doctors out of their practices all across the country .	O B-ORG L-ORG O B-ORG I-ORG|U-PER L-ORG O O O O O B-PER I-PER I-PER I-PER L-PER O O U-PER O O U-PER O O O B-GPE L-GPE O
+President Bush points this way today , even the most frivolous of lawsuits cost money , premiums go up and either way , the patient pays .	B-PER|U-PER L-PER O O O O O O O O O O O O O O O O O O O O O B-PER L-PER O O
+We ' re debating malpractice reform with consumer advocate Ralph Nader , and AMA President - Elect Dr . Ronald Palmisano .	U-PER O O O O O O B-PER|B-PER|U-PER I-PER|L-PER I-PER L-PER O O B-PER|B-PER|U-ORG I-PER|I-PER I-PER|I-PER I-PER|L-PER I-PER|U-PER I-PER I-PER L-PER O
+Dr . Palmisano , again , thanks for staying with us through the break .	B-PER|U-PER I-PER L-PER O O O O O O O U-PER O O O O
+Let me set aside the hypocrisy of a man who became president because of a lawsuit trying to eliminate everybody else ' s lawsuits , but instead focus on his own experience .	O U-PER O O O O O B-PER I-PER I-PER|U-PER I-PER I-PER|U-PER I-PER I-PER I-PER L-PER O O O B-PER L-PER O O O O O O O O B-PER L-PER O O
+He was the governor of my state of Texas , where there are a whole lot of doctors .	U-PER O B-PER I-PER I-PER I-PER|B-GPE|U-PER I-PER|I-GPE I-PER|I-GPE I-PER|I-GPE|U-GPE I-PER|I-GPE I-PER|I-GPE|U-GPE I-PER|I-GPE I-PER|I-GPE I-PER|I-GPE|B-PER I-PER|I-GPE|I-PER I-PER|I-GPE|I-PER I-PER|I-GPE|I-PER L-PER|L-GPE|L-PER O
+It turns out that he didn ' t do any kind of a job policing your profession at all when he was the governor of Texas .	O O O O U-PER O O O O O O O O O O U-PER O O O O U-PER O B-PER I-PER I-PER L-PER|U-GPE O
+Here ' s what the " Dallas Morning News " reported recently : " The Texas State Board of Medical Examiners , the agency that pledges to protect the public has granted second and third chances to surgeons who are thrown out of hospitals because they botched operations .	O O O O B-ORG I-ORG I-ORG I-ORG L-ORG O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O B-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG I-ORG|B-PER L-ORG|L-PER O O O O O O O B-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER|U-ORG I-PER I-PER|U-PER I-PER L-PER O
+It has forgiven physicians who overlook cancerous tumors , who maimed infants or whose mistakes left women sterilized .	U-ORG O O B-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER|U-PER I-PER I-PER|U-PER I-PER I-PER I-PER|U-PER L-PER O
+It has refused in the last five years to revoke the license of a single doctor for committing medical errors .	U-ORG O O O O O O O O O O O O B-PER I-PER L-PER O O O O O
+Thousands more may have been ignored over the last decade . "	O O O O O O O O O O O O
+That is the Bush record in policing surgeons , why should we trust him now ?	O O O U-PER O O O U-PER O O O U-PER O U-PER O O
+Well , first off . . .	O O O O O O O
+Physicians generally , not just surgeons , forgive me .	U-PER O O O O U-PER O O U-PER O
+What we need to do is to make sure that state boards , number one , have adequate funding .	O U-PER O O O O O O O O B-ORG|U-GPE L-ORG O O O O O O O O
+The AMA supports that .	B-ORG L-ORG O O O
+If there are any bad doctors we want them removed from the practice of medicine .	O O O B-PER I-PER L-PER U-ORG O U-PER O O O O O O O
+But it ' s also . . .	O O O O O O O O
+( CROSSTALK )	O O O
+. . . bad doctors ?	O O O B-PER L-PER O
+Well , it ' s also unfair to make a judgment without knowing all of the facts of the case .	O O O O O O O O O O O O O O O O O O O O O
+Because someone pays money in a case , the insurance company may pay money because they ' re afraid there ' s is going to be a giant award in this case because of this broken liability system .	O U-PER O O O O O O B-ORG I-ORG L-ORG O O O O U-ORG O O O O O O O O O O O O O O O O O O O O O O O
+Troy Brennan ( ph ) of Harvard said there ' s no correlation with negligence , only with disability .	B-PER I-PER I-PER I-PER I-PER I-PER L-PER|U-ORG O O O O O O O O O O O O O
+So let ' s look at all of the facts , but give everybody due process here in America before we criticize .	O O O U-PER O O O O O O O O O U-PER O O B-GPE I-GPE L-GPE|U-GPE O U-PER O O
+Actually , Troy Brennan , the same doctor at Harvard Public School of Health said the issue is not to fuel lawsuits , it ' s too many .	O O B-PER L-PER O B-PER I-PER I-PER I-PER I-PER|B-ORG|U-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG L-PER|L-ORG O O O O O O O O O O O O O O O
+Less than 10 percent of the victims of medical malpractice , and we ' re talking about horrific injuries here , even file a claim .	B-PER I-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O U-PER O O O O O O O O O O O O O
+Even file a claim .	O O O O O
+And the entire pay - out to all of the victims that get a little money , not the 90 percent who never file a claim , amounts to less than what we spend on dog food .	O O O O O O O B-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER|U-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O B-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER L-PER O O O O O O U-PER O O O O O
+On dog food .	O O O O
+It ' s about $ 5 . 4 billion is the pay - out .	O O O O O O O O O O O O O O O
+That ' s a fraction of physician income .	O O O O O O U-PER O O
+It ' s a fraction of the health care expense of 1 . 4 trillion .	O O O O O O O O O O O O O O O O
+What we have to do is look at all the facts and have balance here .	O U-PER O O O O O O O O O O O O O O
+That ' s what the people in Congress have to do .	O O O O B-PER I-PER I-PER L-PER|U-ORG O O O O
+They have to make sure that whatever they decide keeps doctors in practice and patients having access to care .	U-PER O O O O O O U-PER O O U-PER O O O U-PER O O O O O
+Doctors are going . . .	U-PER O O O O O
+But let me - but let me - wait . . .	O O U-PER O O O U-PER O O O O O
+Doctors are leaving practice because of insurance premium , right ?	U-PER O O O O O O O O O O
+Is that right ?	O O O O
+They don ' t abandon their patients , except for the high premiums of a few specialties ?	U-PER O O O O B-PER|U-PER L-PER O O O O O O O O O O O
+Because of the premiums .	O O O O O
+But first of all let me . . .	O O O O O U-PER O O O
+Why don ' t you crack down on the insurance companies ?	O O O O U-PER O O O B-ORG I-ORG L-ORG O
+Let ' s talk about the facts .	O O U-PER O O O O O
+Let ' s talk about the facts .	O O U-PER O O O O O
+That ' s the fact .	O O O O O O
+( UNINTELLIGIBLE ) percent of the doctors are insured by physician - owned insurance companies , the medical side .	O O O B-PER I-PER I-PER|B-PER L-PER|L-PER O O O B-ORG|U-PER I-ORG I-ORG I-ORG L-ORG O O O O O
+I was just in Oklahoma , they own this insurance company .	U-PER O O O U-GPE O U-GPE O B-ORG I-ORG L-ORG O
+They are trying to do their very best .	U-GPE O O O O U-GPE O O O
+It ' s a company not for profit .	U-ORG O O B-ORG I-ORG I-ORG I-ORG L-ORG O
+What happens here is that more money is being paid out than comes in .	O O O O O O O O O O O O O O O
+And as far as the investment income , A . M . Bests ( ph ) show that in the past five years , the investment income has been stable at around 5 percent .	O O O O O O O O B-ORG I-ORG I-ORG I-ORG L-ORG O O O O O O O O O O O O O O O O O O O O O O
+Brown Brothers Harriman said that investments did not precipitate the current crisis .	B-ORG I-ORG L-ORG O O O O O O O O O O
+( CROSSTALK )	O O O
+. . . payoffs have been stable , adjusted for inflation , National Practitioners Databank ( ph ) .	O O O O O O O O O O O O O O O O O O O
+Why do you want that to be secret ?	O O U-PER O O O O O O
+All of the information about bad doctors in the National Practitioner bank , you , the AMA wants to keep it secret from other doctors and other patients around the country who want to know whether their doctor is on that list .	O O O O O B-PER L-PER O O O O O O U-PER O B-ORG L-ORG O O O O O O B-PER L-PER O B-PER I-PER I-PER I-PER|B-GPE I-PER|L-GPE I-PER|U-PER I-PER I-PER I-PER I-PER I-PER|B-PER|U-PER I-PER|L-PER I-PER I-PER I-PER L-PER O
+Well , let ' s look at what the president is actually proposing for people who have been harmed by a bad doctor .	O O O O U-PER O O O B-PER L-PER O O O O B-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER L-PER|L-PER O
+Let ' s listen to what he said to the AMA today .	O O U-PER O O O U-PER O O B-ORG L-ORG O O
+( BEGIN VIDEO CLIP )	O O O O O
+If harmed by a doc , they ought to be able to recover their economic costs , economic losses .	O O O B-PER L-PER O U-PER O O O O O O U-PER O O O O O O
+They should be able to recover non - economic damages as well .	U-PER O O O O O O O O O O O O
+But for the sake of the system , non - economic damages should be capped at $ 250 , 000 .	O O O O O O O O O O O O O O O O O O O O O
+( END VIDEO CLIP )	O O O O O
+What in the world is wrong with that ?	O O B-LOC L-LOC O O O O O
+Tell me what ' s wrong with that ?	O U-PER O O O O O O O
+What ' s wrong ?	O O O O O
+Tell someone who had a double mastectomy , tell an infant who ' s brain - damaged and has no economic loss that for the rest of their lives they ' re going to get dribbled out $ 250 , 000 for their entire life expectancy ?	O B-PER I-PER|U-PER I-PER I-PER I-PER L-PER O O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O O U-PER O U-PER O O O O O O O O O O O O U-PER O O O O
+Wait a minute .	O O O O
+The head of AIG a few years ago was making $ 250 , 000 every week .	B-PER I-PER I-PER L-PER|U-ORG O O O O O O O O O O O O O
+Two hundred and fifty thousand dollars is a lot of money , though .	O O O O O O O O O O O O O O
+Not for you , but for most people it ' s a lot of money .	O O U-PER O O O B-PER L-PER O O O O O O O O
+( CROSSTALK )	O O O
+These executives , why don ' t you tell . . .	B-PER L-PER O O O O O U-PER O O O O
+In California - wait , Mr . Nader .	O U-GPE O O O B-PER|U-PER I-PER L-PER O
+In California . . .	O U-GPE O O O
+Why don ' t you cap insurance . . .	O O O O U-PER O O O O O
+Mr . Palmisano , go ahead .	B-PER|U-PER I-PER L-PER O O O O
+Give me a moment , please .	O U-PER O O O O O
+Go ahead , go ahead .	O O O O O O
+In California where they have this law , it caps the non - economics , the ones you can ' t quantify .	O B-GPE I-GPE|U-GPE I-GPE|U-GPE I-GPE I-GPE L-GPE O O O O O O O O O O U-PER O O O O O
+There are awards in 10 million , 20 million , $ 30 million in California for economic .	O O O O O O O O O O O O O O U-GPE O O O
+So all medicals , all rehabilitation , care services in the home , lost wages . . .	O O O O O O O O O O O O O O O O O O
+No , no , no .	O O O O O O
+I ' ve got to ask Mr . Nader , we are almost out of time .	U-PER O O O O O B-PER|U-PER I-PER L-PER O U-PER O O O O O O
+Doug Friedman ( ph ) , who ran Jesse Ventura ' s campaign for governor four years ago , says he wants you to run for president again .	B-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER|B-PER I-PER|L-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O O U-PER O U-PER O O O O O O
+I know you ' re saying it ' s much too early to run for president .	U-PER O U-PER O O O O O O O O O O O O O O
+But one simple question , Ralph , will you consider another run for president ?	O O O O O U-PER O O U-PER O O O O O O
+Much too early to consider .	O O O O O O
+I am concerned about Donald Zook ( ph ) , who ' s head of a medical malpractice insurance company , a big one in the West , saying that his insurance company executive colleagues should not blame the tort injury system .	U-PER O O O B-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER|B-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG L-PER|L-PER|L-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG|B-LOC L-ORG|L-LOC O O O B-PER|U-PER I-PER|B-PER|B-ORG I-PER|I-PER|L-ORG I-PER|L-PER L-PER O O O O O O O O
+He said that your problem of jacking up these insurance rates is self - inflicted .	U-PER O O U-PER O O O O O O O O O O O O
+Here ' s an insurance company executive who is saying that .	O O O B-PER I-PER|B-ORG I-PER|L-ORG L-PER U-PER O O O O
+Well , Mr . Zook is one executive you are quoting .	O O B-PER|U-PER I-PER L-PER O B-PER I-PER I-PER|U-PER I-PER L-PER O
+What we need to do is look at all of the people who don ' t have doctors . . .	O U-PER O O O O O O B-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER L-PER|U-PER O O O
+Hey , let ' s get some agreement .	O O O O U-PER O O O O
+Should we get some agreement ?	O U-PER O O O O
+What . . .	O O O O
+Do you want to really crack down on the bad doctors ?	O U-PER O O O O O O B-PER I-PER L-PER O
+We want to crack down on the attorneys who file frivolous suits .	U-ORG O O O O O B-PER I-PER I-PER|U-PER I-PER I-PER L-PER O
+Seventy percent of the cases filed are told there ' s no payment .	O O O O O O O O O O O O O O
+What kind of peer review is that ?	O O O U-PER O O O O
+Do you want to crack down on the bad doctors ?	O U-PER O O O O O B-PER I-PER L-PER O
+You ' re in AMA .	U-PER O O O U-ORG O
+We definitely want to crack down on bad doctors .	U-ORG O O O O O O B-PER L-PER O
+But . . . ( CROSSTALK )	O O O O O O O
+Do you want to control insurance rates ?	O U-PER O O O O O O
+We want the free market to dictate what is done .	U-ORG O O O O O O O O O O
+The free market actually dictates we have got to sell some commercials here on CNN or we ' re all out of . . .	O O O O O U-PER O O O O O O O O U-ORG O U-PER O O O O O O O O
+Thanks .	O O
+Privilege to be here .	O O O O O
+War in Iraq	O O O
+( BEGIN VIDEOTAPE )	O O O O
+The situation here appears to be increasingly tense .	O O U-LOC O O O O O O
+A few moments ago , out on the horizon , not very far ahead of the U . S . Army ' s 3rd Squadron , 7th Cavalry , we heard more than a few explosions .	O O O O O O O B-LOC L-LOC O O O O O O B-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|L-ORG I-PER I-PER I-PER I-PER I-PER I-PER|B-ORG L-PER|L-ORG O U-PER O O O O O O O
+The U . S . Army ' s 3rd Squadron , 7th Cavalry has compiled a rather extraordinary record in the past several days .	B-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|L-ORG I-PER I-PER I-PER I-PER I-PER I-PER|B-ORG L-PER|L-ORG O O O O O O O O O O O O
+It was the first unit to cross the Euphrates River and then punch northward to within 60 miles of Baghdad .	U-PER O B-PER I-PER L-PER O O B-LOC I-LOC L-LOC O O O O O O O O O U-GPE O
+It was the Army which assigned me to the 3rd Squadron , 7th Cavalry , and that was extremely fortuitous .	U-ORG O B-ORG L-ORG U-ORG O U-PER O B-PER I-PER I-PER I-PER I-PER|B-ORG L-PER|L-ORG O O O O O O O
+It was like sitting in a poker game and drawing four aces , because this is a crack unit .	O O O O O O O O O O O O O O U-PER O B-PER I-PER L-PER O
+It ' s the tip of the tip of the spear .	U-PER O O B-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O
+We ' ve had an absolutely terrific story , pushing forward north toward Baghdad .	U-PER O O O O O O O O O O O O U-GPE O
+Seventy - two hours of that was under constant fire coming at us from both sides of the road .	O O O O O O O O O O O O U-PER O O O O B-FAC L-FAC O
+We just heard an incoming - - what the hell !	U-PER O O O O O O O O O O
+No , no , I don ' t know what it is .	O O O O U-PER O O O O O O O O
+Recall Winston Churchill ' s old quote , " There ' s nothing so exhilarating as being shot at and missed . "	O B-PER L-PER O O O O O O O O O O O O O O O O O O O O
+What you try to do is stay calm and continue your broadcasting .	O U-PER O O O O O O O O U-PER O O
+The worst thing you can do , either as a soldier or as a war correspondent is panic .	O O O U-PER O O O O O B-PER L-PER O O B-PER I-PER L-PER O O O
+We ' re hearing incoming .	U-PER O O O O O
+We ' re not sure what it is .	U-PER O O O O O O O O
+We see some stuff in the sky .	U-PER O O O O B-LOC L-LOC O
+We may have to break this off .	U-PER O O O O O O O
+I think we ' re going to break off this live shot for the time being .	U-PER O U-PER O O O O O O O O O O O O O O
+We ' re not sure what we see up there .	U-PER O O O O O U-PER O B-LOC L-LOC O
+Goodbye .	O O
+We ' ve got to dive for vehicles , we think .	U-PER O O O O O O U-VEH O U-PER O O
+See you .	O U-PER O
+We have under heavy fire for the past couple of miles .	U-PER O O O O O O O O O O O
+Mostly small arms fire , but the sand storm has enabled the Iraqis to come very close to the road , and if I sound a little nervous , it ' s because we ' re in the soft skin vehicle and everybody else is in armor .	O B-WEA L-WEA O O O O O O O O B-PER L-PER O O O O O B-FAC L-FAC O O O U-PER O O O O O O O O O U-PER O O O B-VEH I-VEH I-VEH L-VEH O B-PER L-PER O O U-VEH O
+We ' d like to now show you what we call Old Betsy ( ph ) , a re - used , secondhand U . S . Army Humvee that we ' ve been traveling with .	U-PER O O O O O O U-PER U-VEH U-PER O B-VEH L-VEH O O O O B-VEH I-VEH I-VEH I-VEH I-VEH I-VEH I-VEH|B-ORG I-VEH|I-ORG I-VEH|I-ORG I-VEH|I-ORG I-VEH|L-ORG I-VEH I-VEH|U-VEH I-VEH|U-PER I-VEH I-VEH I-VEH I-VEH L-VEH O
+Any bullet will pass through it , even a . 22 caliber bullet .	B-WEA L-WEA O O O U-VEH O O B-WEA I-WEA I-WEA I-WEA L-WEA O
+You can see our body armor draped on the door .	U-PER O O U-PER O O O O O O O
+This is what we ' ve literally been living in .	U-VEH O B-VEH I-VEH|U-PER I-VEH I-VEH I-VEH I-VEH I-VEH L-VEH O
+This is the kitchen , when we ' re down , and we ' re very fortunate , because we ' ve got a teapot .	U-VEH O B-VEH L-VEH O O U-PER O O O O O U-PER O O O O O O U-PER O O O O O O
+That ' s my cubby hole .	O O O B-VEH|U-PER I-VEH L-VEH O
+It ' s extraordinary cramped , because ( UNINTELLIGIBLE ) sandbag the floor , in case we hit a mine .	U-VEH O O O O O O O O O O O O O O O U-PER O B-WEA L-WEA O
+That ' s all the space I have to eat and sleep in .	U-VEH O O B-VEH I-VEH I-VEH I-VEH|U-PER I-VEH I-VEH I-VEH I-VEH I-VEH L-VEH O
+You don ' t sleep .	U-PER O O O O O
+You really don ' t sleep out here .	U-PER O O O O O B-LOC L-LOC O
+Of course , you ' re on an adrenaline high , but racing across the desert , you know that you ' re traveling toward the jaws of what could be a major military battle .	O O O U-PER O O O O O O O O O O B-LOC L-LOC O U-PER O O U-PER O O O O O O O O O O O O O O O
+You have to realize , they ' ve been riding along , bouncing along in these tanks for probably six or more hours now .	U-PER O O O O U-PER O O O O O O O O O B-VEH L-VEH O O O O O O O O
+And if you ride inside that tank , it is like riding in the bowels of a dragon .	O O U-PER O O B-VEH L-VEH O O O O O O O O O O O O
+They roar , they screech .	U-VEH O O U-VEH O O
+The hardest part of the trip is personal discomfort .	O O O O O O O O O O
+We cannot tell you the levels of personal discomfort we ' ve experienced .	U-PER O O U-PER O O O O O U-PER O O O O
+The extraordinary sandstorms , the bitter cold nights .	O O O O O O O O O
+The most uncomfortable thing is having to sleep sitting up in a Humvee with sandbags under your feet , your knees at your chin .	O O O O O O O O O O O B-VEH L-VEH O O O U-PER O O U-PER O O U-PER O O
+That ' s excruciatingly uncomfortable , not something that you would wish on anybody but a contortionist .	O O O O O O O O O U-PER O O O B-PER I-PER I-PER|B-PER L-PER|L-PER O
+Let me give you an example of what the dust like .	O U-PER O U-PER O O O O O O O O
+Look at this .	O O O O
+We have been through days of dust like that .	U-PER O O O O O O O O O
+The U . S . Army ' s 7th Cavalry has just taken three Iraqi prisoners of war .	B-ORG|B-ORG I-ORG|I-ORG I-ORG|I-ORG I-ORG|I-ORG I-ORG|I-ORG I-ORG|L-ORG I-ORG I-ORG I-ORG L-ORG O O O B-PER I-PER|U-GPE I-PER I-PER L-PER O
+Actually , they ' re very close , that is to say , no more than 40 yards away , but the dust and sand are blowing so badly you ' re getting these vague images .	O O U-PER O O O O O O O O O O O O O O O O O O O O O O O O O O U-PER O O O O O O O
+It ' s like being in a blizzard , except unfortunately , the sand doesn ' t melt as the snow does .	O O O O O O O O O O O O O O O O O O O O O O O
+What we eat is what the Army calls MREs , meals ready to eat .	O U-PER O O O B-ORG L-ORG O O O O O O O O
+And I must say , they ' re pretty darn good .	O U-PER O O O O O O O O O O
+And of course , everybody fights for the best ones .	O O O O U-PER O O O O O O
+The treats are things like the M & Ms and the breakfast toasties .	O O O O O O O O O O O O O O
+The Army is eating much , much better than the grandfathers of these soldiers did and the great grandfathers of these soldiers in the Second World War .	B-ORG L-ORG O O O O O O O B-PER I-PER I-PER I-PER|B-PER L-PER|L-PER O O B-PER I-PER I-PER I-PER I-PER|B-PER L-PER|L-PER O O O O O O
+Let me hold the camera and show you my crew .	O U-PER O O O O O U-PER B-PER|U-PER L-PER O
+On camera left is Charlie Miller ( ph ) , he ' s been our superb and intrepid cameraman .	O O O O B-PER L-PER O O O O U-PER O O O B-PER|U-PER I-PER I-PER I-PER L-PER O
+On my right is Jeff Barweis ( ph ) , a brilliant satellite engineer .	O U-PER O O B-PER L-PER O O O O B-PER I-PER I-PER L-PER O
+That ' s the crew which really brings you these pictures .	U-PER O O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER|U-PER I-PER L-PER O
+The pictures you ' re seeing are absolutely phenomenal .	O O U-PER O O O O O O O
+These are live pictures of the 7th Cavalry racing across the desert .	O O O O O B-PER I-PER L-PER O O B-LOC L-LOC O
+You ' ve never seen battlefield pictures like these before .	U-PER O O O O O O O O O O
+What you ' re watching here is truly historic television and journalism .	O U-PER O O O O O O O O O O O
+( END VIDEOTAPE )	O O O O
+Walter Rodgers with the 3 - 7th .	B-PER L-PER O B-PER I-PER I-PER L-PER O
+Just ahead we ' ll have the latest on today ' s suicide bombing in Israel .	O O U-ORG O O O O O O O O O O O O U-GPE O
+A report from CNN ' s Kelly Wallace when we return .	O O O B-PER|U-ORG I-PER I-PER I-PER L-PER O U-ORG O O
+Iraq Warns of Unconventional Counter Attack Tonight ; Saddam Sends Message Suggesting he is Alive , Still Defiant	O O O O O O O O O O O O O O O O O O
+New explosions rock Baghdad after dark .	O O O U-GPE O O O
+Witnesses say they heard blasts around a presidential complex in the center of the city .	U-PER O U-PER O O O B-FAC I-FAC I-FAC I-FAC I-FAC|B-LOC I-FAC|I-LOC I-FAC|I-LOC I-FAC|I-LOC|B-GPE L-FAC|L-LOC|L-GPE O
+Meantime , the U . S . reportedly has hundreds of troops poised to reinforce the Baghdad international airport , now under the control of American troops .	O O B-GPE I-GPE I-GPE L-GPE O O O B-PER I-PER I-PER I-PER I-PER I-PER I-PER|B-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC|B-PER|U-GPE L-PER|L-FAC|L-PER O
+A source tells CNN ' s Nic Robertson , some Iraqi Republican Guard forces are gathering close to the airport .	B-PER L-PER O B-PER|U-ORG I-PER I-PER I-PER L-PER O B-PER I-PER|U-GPE I-PER|B-ORG I-PER|L-ORG L-PER O O O O B-FAC L-FAC O
+Columns of coalition forces keep pressing north and tightening the noose on Baghdad .	B-PER I-PER I-PER|B-PER|U-GPE L-PER|L-PER O O O O O O O O U-GPE O
+CNN ' s Central Command says some 2 , 500 Republican Guard forces surrendered , that is , between Kut and Baghdad .	B-ORG|U-ORG I-ORG I-ORG I-ORG L-ORG O B-PER I-PER I-PER I-PER I-PER|B-ORG I-PER|L-ORG L-PER O O O O O O U-GPE O U-GPE O
+Now , the latest on the fight for control of Baghdad ' s International Airport .	O O O O O O O O O O B-FAC|U-GPE I-FAC I-FAC I-FAC L-FAC O
+While coalition forces say they have secured the facility , that ' s not the case in the surrounding area .	O B-PER|U-GPE L-PER O U-PER O O B-FAC L-FAC O O O O O O O O B-LOC I-LOC L-LOC O
+ITN reporter James Mates was with the U . S . forces when they moved in to secure the airport .	B-PER|B-PER|U-ORG I-PER|L-PER I-PER L-PER O O B-PER I-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O U-PER O O O O B-FAC L-FAC O
+( BEGIN VIDEOTAPE )	O O O O
+It was a showpiece of his regime .	U-FAC O B-FAC I-FAC I-FAC I-FAC|B-ORG|U-PER L-FAC|L-ORG O
+Now Saddam International Airport is controlled by coalition troops and , tonight , it has a new name , Baghdad International .	O B-FAC I-FAC L-FAC O O O B-PER|U-GPE L-PER O O O O U-FAC O O O O O B-FAC L-FAC O
+These pictures were taken on the runway just moments after the coalition attack .	O O O O O B-FAC L-FAC O O O O U-GPE O O
+A passenger jet burned out on the tarmac .	B-VEH I-VEH|U-PER L-VEH O O O B-FAC L-FAC O
+Wreckage burning in a hangar as U . S . troops rush in .	O O O B-FAC L-FAC O B-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O O O
+At dawn this morning , U . S . tanks and infantry had rolled in to claim their biggest prize of the war so far .	O O O O O B-PER|B-VEH|B-GPE I-PER|I-VEH|I-GPE I-PER|I-VEH|L-GPE I-PER|I-VEH I-PER|I-VEH I-PER|I-VEH L-PER|L-VEH O O O O O B-FAC|U-PER I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC L-FAC O
+Building by building , they swept the terminal complex , then moved on to secure the runway .	U-FAC O U-FAC O U-PER O B-FAC I-FAC|U-FAC L-FAC O O O O O O B-FAC L-FAC O
+The fall of his airport is a humiliating blow for Saddam .	O O O B-FAC|U-PER L-FAC O O O O O U-PER O
+It lies just 12 miles from Baghdad and will be a key forward base for U . S . troops as they prepare for a push on the capital .	U-FAC O O O O O U-GPE O O O B-FAC I-FAC I-FAC I-FAC I-FAC I-FAC|B-PER|B-GPE I-FAC|I-PER|I-GPE I-FAC|I-PER|L-GPE I-FAC|I-PER L-FAC|L-PER O U-PER O O O O O B-GPE L-GPE O
+More than 300 Iraqi soldiers have been left dead .	B-PER I-PER I-PER I-PER|U-GPE L-PER O O O O O
+Some Republican Guard troops fought fiercely on the northern side of the airport complex .	B-PER I-PER|B-ORG I-PER|L-ORG L-PER O O O B-LOC I-LOC I-LOC I-LOC I-LOC|B-FAC I-LOC|I-FAC|U-FAC L-LOC|L-FAC O
+Hopefully , this is a sign that we ' re able to send to the residents of Baghdad that we ' re here and they can rise up and deal with the regime appropriately .	O O O O O O O U-PER O O O O O O B-GPE I-GPE I-GPE L-GPE|U-GPE O U-PER O O U-GPE O U-GPE O O O O O O B-ORG L-ORG O O
+Outside the airport , the fighting was fierce , but the battle unequal .	O B-FAC L-FAC O O O O O O O O O O O
+Here , the remains of an Iraqi armored car , and by its side the body of an Iraqi soldier , all that remains of a column that pushed up the airport road last night in a final effort to defend the airport .	U-LOC O O O O B-VEH I-VEH|U-GPE I-VEH L-VEH O O O U-VEH O O O O B-PER I-PER|U-GPE L-PER O O O O O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER|B-FAC I-PER|I-FAC|U-FAC L-PER|L-FAC O O O O O O O O B-FAC L-FAC O
+U . S . troops are now knocking on the door of Baghdad .	B-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O O O O O O O U-GPE O
+But the final push into the city could yet prove to be the toughest fighting of all .	O O O O O B-GPE L-GPE O O O O O O O O O O O
+( on camera ) : The patchy , somewhat disorganized defense of the airport last night has left coalition commanders with several questions .	O O O O O O O O O O O O B-FAC L-FAC O O O O B-PER|U-GPE L-PER O O O O
+Have they done so much damage now to Iraqi command and control centers that they can no longer put up a proper fight , or are the best troops simply withdrawing into the city , to fight there street by street ?	O U-PER O O O O O O B-FAC|U-GPE I-FAC I-FAC I-FAC L-FAC O U-PER O O O O O O O O O O O B-PER I-PER L-PER O O O B-GPE L-GPE O O O U-GPE U-FAC O U-FAC O
+The answer to that could well decide how quickly they make a final push into the city .	O O O O O O O O O U-PER O O O O O B-GPE L-GPE O
+James Mates , ITV News , with the U . S . marines , south of Baghdad .	B-PER L-PER O B-ORG L-ORG O O B-PER I-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O O O U-GPE O
+( END VIDEOTAPE )	O O O O
+Saddam Hussein is Losing Grip on Northern Cities in Iraq	O O O O O O O O O O
+( NEWS BREAK )	O O O O
+Yesterday , there were scenes of jubilation in Baghdad , today , a suicide bombing and firefighters , grim reminders that , as U . S . Central Command put it , Baghdad is still an ugly place .	O O O O O O O O U-GPE O O O O O O O U-PER O O O O O O B-ORG|B-GPE I-ORG|I-GPE I-ORG|L-GPE I-ORG I-ORG L-ORG O O O U-GPE O O B-GPE I-GPE L-GPE O
+CNN ' s John Irvine has this profile of a city literally teetering on a razor ' s edge .	B-PER|U-ORG I-PER I-PER I-PER L-PER O O O O B-GPE I-GPE I-GPE I-GPE I-GPE I-GPE I-GPE I-GPE I-GPE L-GPE O
+( BEGIN VIDEOTAPE )	O O O O
+Getting acquainted , very deliberately , the U . S . Marines are trying to strike up a rapport with the people who are now their responsibility .	O O O O O O B-PER I-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O O O O O O O O B-GPE I-GPE I-GPE|U-GPE I-GPE I-GPE I-GPE|U-PER L-GPE O
+But there are still problems bringing control to Baghdad , particularly at nighttime .	O O O O O O O O U-GPE O O O O O
+In the pitch black of a city without power , these soldiers manning a roadblock became nervous .	O O O O O B-GPE I-GPE I-GPE L-GPE O B-PER I-PER I-PER I-PER|B-FAC L-PER|L-FAC O O O
+Stay the ( EXPLETIVE DELETED ) back !	O O O O O O O O
+Back up !	O O O
+When a car fails to stop , it ' s the cue for a violent gun battle .	O B-VEH L-VEH O O O O O O O O O O O O U-WEA O O
+Bullets are sprayed everywhere .	U-WEA O O O O
+In parts of Baghdad that the Americans haven ' t yet reached , there has been looting .	O B-LOC I-LOC I-LOC|U-GPE I-LOC|U-LOC I-LOC|B-PER I-LOC|L-PER I-LOC I-LOC I-LOC I-LOC L-LOC O O O O O O
+This man took the horse from a stable at the home of Uday Hussein , Saddam ' s eldest son .	B-PER L-PER O O O O B-FAC I-FAC I-FAC I-FAC|B-FAC I-FAC|I-FAC I-FAC|I-FAC I-FAC|I-FAC|B-PER I-FAC|I-FAC|L-PER I-FAC|I-FAC I-FAC|I-FAC|B-PER|U-PER I-FAC|I-FAC|I-PER I-FAC|I-FAC|I-PER I-FAC|I-FAC|I-PER L-FAC|L-FAC|L-PER O
+We found the house , a large , gaudy structure , a place that just a few days ago people didn ' t even look at for fear of their lives .	U-PER O B-FAC L-FAC O B-FAC I-FAC I-FAC I-FAC L-FAC O B-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC|U-PER I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC I-FAC|U-PER L-FAC O
+This indeed was one of Uday ' s homes .	U-FAC O O B-FAC I-FAC I-FAC|B-FAC|U-PER I-FAC|I-FAC I-FAC|I-FAC L-FAC|L-FAC O
+Here , the ruling family could look out over the Tigris .	U-FAC O B-PER I-PER L-PER O O O O B-LOC L-LOC O
+People have wasted no time clearing the house and wrecking what couldn ' t be easily taken .	U-PER O O O O O B-FAC L-FAC O O O O O O O O O O
+( on camera ) : They haven ' t quite worked out just how to reach this will chandelier yet .	O O O O O U-PER O O O O O O O O O O O O O O O
+But , other than that , they have stripped this place bare in less than 24 hours .	O O O O O O U-PER O O B-FAC L-FAC O O O O O O O
+Call it plunder , if you will , or perhaps payback .	O O O O O U-PER O O O O O O
+( voice - over ) : These Iraqis were rifling a home of a senior member of the Mukhabarat , Saddam ' s dreaded secret police .	O O O O O O B-PER L-PER O O B-FAC I-FAC I-FAC I-FAC|B-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER|B-ORG I-FAC|I-PER|L-ORG I-FAC|I-PER I-FAC|I-PER|B-ORG|U-PER I-FAC|I-PER|I-ORG I-FAC|I-PER|I-ORG I-FAC|I-PER|I-ORG I-FAC|I-PER|I-ORG L-FAC|L-PER|L-ORG O
+It also seemed to be some kind of monitoring station .	U-FAC O O O O B-FAC I-FAC I-FAC I-FAC L-FAC O
+There was sophisticated equipment here .	O O O O U-FAC O
+In the basement , we found burning archives and evidence of electronic surveillance .	O B-FAC L-FAC O U-PER O O O O O O O O O
+This had been a nerve center for spying , a place from where the bully boys kept tabs to keep control .	U-FAC O O B-FAC I-FAC I-FAC I-FAC L-FAC O B-FAC I-FAC I-FAC I-FAC I-FAC|B-ORG I-FAC|I-ORG I-FAC|L-ORG I-FAC I-FAC I-FAC I-FAC L-FAC O
+( on camera ) : We ' re now in the bowels of a secret police monitoring station .	O O O O O U-PER O O O O B-FAC I-FAC I-FAC I-FAC|B-FAC I-FAC|I-FAC|B-ORG I-FAC|I-FAC|L-ORG I-FAC|I-FAC L-FAC|L-FAC O
+Look at all this gadgetry , quite sinister really , part of the apparatus of Big Brother .	O O O O O O O O O O O O O O O O O O
+( voice - over ) : These people are stealing from a shopping center .	O O O O O O B-PER L-PER O O O B-FAC I-FAC L-FAC O
+It has become widespread , but it ' s not being done with total impunity .	O O O O O O O O O O O O O O O O
+These thieves are trying to flee the German Embassy , having been shot at by a guard .	B-PER L-PER O O O O B-FAC I-FAC|U-GPE L-FAC O O O O O O B-PER L-PER O
+John Irvine , ITV News , Baghdad .	B-PER L-PER O B-ORG L-ORG O U-GPE O
+( END VIDEOTAPE )	O O O O
+Milosevic ' s wife to face trial	O O O O O O O
+BELGRADE , Serbia - Montenegro ( AP )	B-GPE I-GPE I-GPE|B-GPE I-GPE|I-GPE L-GPE|L-GPE O U-ORG O
+Slobodan Milosevic ' s wife will go on trial next week on charges of mismanaging state property during the former president ' s rule , a court said Thursday .	B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O O O O O O O O O U-GPE O O B-PER I-PER L-PER O O O O B-ORG L-ORG O O O
+Mirjana Markovic , the power behind the scenes during Milosevic ' s 13 - year reign , is accused of illegally providing their grandson ' s nanny with a state - owned luxury apartment in Belgrade in 2000 .	B-PER L-PER O B-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O O O B-PER|B-PER|U-PER I-PER|L-PER I-PER I-PER L-PER O B-FAC I-FAC|U-GPE I-FAC I-FAC I-FAC I-FAC I-FAC L-FAC|U-GPE O O O
+The Belgrade district court said that Markovic will be tried along with 10 other Milosevic - era officials who face similar charges of ` ` inappropriate use of state property ' ' that carry a sentence of up to five years in jail .	B-ORG I-ORG|U-GPE I-ORG L-ORG O O U-PER O O O O O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-GPE I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER|U-FAC O
+The trial will start on March 13 , the court said .	O O O O O O O O B-ORG L-ORG O O
+Milosevic and his wife wielded enormous power in Yugoslavia for more than a decade before he was swept out of power after a popular revolt in October 2000 .	U-PER O B-PER|U-PER L-PER O O O O U-GPE O O O O O O U-PER O O O O O O O O O O O O O
+The post - Milosevic government later extradited him to the U . N . war crimes tribunal in The Hague , the Netherlands .	B-ORG I-ORG I-ORG I-ORG|U-PER L-ORG O O U-PER O B-ORG I-ORG|B-ORG I-ORG|I-ORG I-ORG|L-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|B-GPE I-ORG|I-GPE I-ORG|I-GPE I-ORG|I-GPE|B-GPE L-ORG|L-GPE|L-GPE O
+Since then , many of Milosevic ' s political and business allies as well as his two children have been accused of crimes .	O O O B-PER I-PER I-PER|B-PER|U-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O O B-PER|U-PER I-PER L-PER O O O O O O
+Markovic , the leader of the neo - communist Yugoslav Left party , lost her parliamentary immunity from prosecution after she failed to become a deputy in the parliament of Serbia and Montenegro , the country that last month succeeded Yugoslavia .	U-PER O B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG|B-ORG I-PER|I-ORG|L-ORG L-PER|L-ORG O O U-PER O O O O O U-PER O O O B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG|B-GPE I-PER|I-ORG|I-GPE I-PER|I-ORG|L-GPE I-PER|I-ORG I-PER|I-ORG|B-GPE I-PER|I-ORG|L-GPE I-PER|I-ORG|U-GPE I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG L-PER|L-ORG|U-GPE O
+Spurned by U . S . over human rights , Indonesia turns to Russia for arms	O O O O O O O O O O O O O O O O
+JAKARTA , Indonesia ( AP )	B-GPE I-GPE L-GPE|U-GPE O U-ORG O
+The dictator Suharto has fallen , the constitution has changed , the media was unshackled , democratic elections held , and East Timor freed .	B-PER L-PER U-PER O O O O O O O O B-ORG L-ORG O O O O O O O O B-GPE L-GPE O O
+After Sept . 11 , 2001 , Indonesia was quick to sign onto U . S . President George W . Bush ' s global war on terror .	O O O O O O O U-GPE O O O O O B-PER|B-PER|B-GPE I-PER|I-PER|I-GPE I-PER|I-PER|L-GPE I-PER|I-PER I-PER|L-PER I-PER I-PER I-PER L-PER O O O O O O O
+Yet , Washington maintains a 12 - year ban on arms sales to the world ' s most populous Muslim nation with the aim of curbing human rights abuses still happening despite momentous political change .	O O U-GPE O O O O O O O U-WEA O O B-GPE|B-LOC I-GPE|L-LOC I-GPE I-GPE I-GPE I-GPE I-GPE|U-PER L-GPE O O O O O U-PER O O O O O O O O O
+Frustrated , Jakarta ' s generals are looking elsewhere to replace antiquated arsenals .	O O B-PER|U-GPE I-PER I-PER L-PER O O O O O O O O
+Later this month Indonesian President Megawati Sukarnoputri travels to Moscow to seek the Kremlin ' s help in modernizing her increasingly obsolete 300 , 000 - member armed forces .	O O O B-PER|B-PER|U-GPE I-PER|L-PER I-PER L-PER O O U-GPE O O B-GPE L-GPE O O O O O B-ORG|U-PER I-ORG I-ORG I-ORG|B-PER I-ORG|I-PER I-ORG|I-PER I-ORG|I-PER I-ORG|L-PER I-ORG L-ORG O
+She is also likely to open the way for Russian companies to vie for lucrative deals in the oil and gas sector , long dominated by American and British resource giants .	U-PER O O O O O O O O B-ORG|U-GPE L-ORG O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|B-ORG|U-GPE I-ORG|I-ORG I-ORG|I-ORG|U-GPE I-ORG|I-ORG L-ORG|L-ORG O
+Although opposite ends of the Earth , Indonesia and Russia have some basic things in common .	O O O O B-LOC L-LOC O U-GPE O U-GPE O O O O O O O
+Both are geographically sprawling with massive multiethnic populations .	U-GPE O O O O B-GPE I-GPE L-GPE O
+Both are struggling to preserve national unity as they fight separatism and build democracy after the collapse of decades of authoritarian rule .	U-GPE O O O O O O O U-GPE O O O O O O O O O O O O O O
+Both are resource - rich , but face huge economic problems made worse by endemic corruption .	U-GPE O O O O O O O O O O O O O O O O
+And , currently , both have opposed the U . S . - led war on Iraq .	O O O O U-GPE O O O B-GPE I-GPE L-GPE O O O O O U-GPE O
+Indonesia ' s Foreign Ministry spokesman Marty Natalegawa says Megawati ' s meeting with Russian President Putin slated for April 21 will touch on the Iraq crisis .	B-PER|B-ORG|U-GPE I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|L-ORG L-PER B-PER L-PER O U-PER O O O O B-PER|B-PER|U-GPE I-PER|L-PER L-PER O O O O O O O O U-GPE O O
+But other diplomats say that issue will serve primarily to bring the two closer together on bottom - line issues such as trade and arms sales .	O B-PER L-PER O O O O O O O O B-GPE L-GPE O O O O O O O O O O O U-WEA O O
+Analysts worry that Indonesia ' s military is now so degraded it can no longer control the borders of the far - flung archipelago , allowing for easy infiltration by extremists .	U-PER O O B-ORG|U-GPE I-ORG I-ORG L-ORG O O O O U-ORG O O O O B-LOC I-LOC I-LOC I-LOC|B-GPE I-LOC|I-GPE I-LOC|I-GPE I-LOC|I-GPE L-LOC|L-GPE O O O O O O U-PER O
+Last year ' s Bali bombings , which killed 202 people , illustrated the threat of terrorism in Indonesia .	O O O O U-GPE O O O O B-PER L-PER O O O O O O O U-GPE O
+And , broad opposition to the U . S . - led attack on Iraq threatens to lead to a backlash by militant Islamists .	O O O O O O B-GPE I-GPE L-GPE O O O O O U-GPE O O O O O O O B-PER L-PER O
+` ` Nearly everybody in Indonesia sees this Iraq war as completely unnecessary and there is widespread public opposition to U . S . policies , ' ' said Jusuf Wanadi of the Center for Strategic and International Studies in Jakarta .	O O B-PER I-PER I-PER L-PER|U-GPE O O U-GPE O O O O O O O O O O O B-GPE I-GPE L-GPE O O O O O O B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG L-PER|L-ORG|U-GPE O
+Close ties between Moscow and Jakarta are not unprecedented .	O O O U-GPE O U-GPE O O O O
+Indonesia relied on Soviet military assistance in the 1950s under Megawati ' s father and founding President Sukarno , but these were severed after the anti - communist Gen . Suharto seized power in 1965 .	U-GPE O O B-ORG|U-GPE L-ORG O O O O O B-PER|U-PER I-PER I-PER L-PER O B-PER|B-PER I-PER|L-PER L-PER O O O O O O B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|L-PER I-PER L-PER O O O O O
+The United States quickly became the Southeast Asian country ' s main weapons supplier , and annual arms sales peaked at US $ 400 million in the 1980s .	B-GPE I-GPE L-GPE O O B-GPE|B-GPE I-GPE|I-GPE|B-GPE I-GPE|I-GPE|L-GPE I-GPE|L-GPE I-GPE I-GPE I-GPE I-GPE|U-WEA L-GPE O O O U-WEA O O O U-GPE O O O O O O O
+In 1991 , however , the U . S . Congress banned this after Indonesian troops killed hundreds of civilians in East Timor .	O O O O O B-ORG I-ORG|B-GPE I-ORG|I-GPE I-ORG|L-GPE I-ORG L-ORG O O O B-PER|U-GPE L-PER O B-PER I-PER I-PER I-PER I-PER|B-GPE L-PER|L-GPE O
+In 1999 , East Timor became free , but only after Indonesian forces laid waste to it as they withdrew after a pro - independence referendum .	O O O B-GPE L-GPE O O O O O O B-PER|U-GPE L-PER O O O U-GPE O U-PER O O O O O O O O
+The shocking level of destruction prompted U . S . lawmakers to expand the ban to cover almost all military ties with Indonesia .	O O O O O O B-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O O O O O O O O U-ORG O O U-GPE O
+Since then some in the Bush administration _ particularly Deputy Defense Secretary Paul Wolfowitz , a former ambassador to Jakarta and a prime architect of the Iraq war _ have pushed for the ban to be repealed .	O O B-PER I-PER I-PER|B-ORG I-PER|I-ORG|U-PER L-PER|L-ORG O O B-PER|B-PER I-PER|I-PER|U-ORG I-PER|L-PER I-PER L-PER O B-PER I-PER I-PER I-PER L-PER|U-GPE O B-PER I-PER I-PER I-PER I-PER I-PER|U-GPE L-PER O O O O O O O O O O
+So far , U . S . lawmakers have reinstated only a limited officer training program .	O O O B-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O O O O O U-PER O O O
+But that ' s far from enough for Indonesia ' s generals .	O O O O O O O O B-PER|U-GPE I-PER I-PER L-PER O
+` ` I think the Indonesian military has finally decided that restrictions and conditionalities from Washington are just not worth it , ' ' said Juwono Sudarsono , a former defense minister .	O O U-PER O B-ORG I-ORG|U-GPE L-ORG O O O O O O O O U-GPE O O O O O O O O O B-PER L-PER O B-PER I-PER I-PER L-PER O
+` ` So they want to look for alternative sources for planes , helicopters and other hardware . ' '	O O O U-ORG O O O O O O O U-VEH O U-VEH O O O O O O
+Moscow has already had some success in wooing Indonesia as a customer .	U-GPE O O O O O O O U-GPE O B-GPE L-GPE O
+Jakarta has recently purchased some Russian weapons , including 10 , 000 Kalashnikov assault rifles , a squadron of naval Mil - 2 helicopters and a dozen BTR - 80A amphibious carriers for its marines .	U-GPE O O O B-WEA I-WEA|U-GPE I-WEA I-WEA I-WEA I-WEA|B-WEA I-WEA|I-WEA I-WEA|I-WEA I-WEA|I-WEA|U-WEA I-WEA|I-WEA I-WEA|L-WEA I-WEA I-WEA|B-VEH I-WEA|I-VEH I-WEA|I-VEH I-WEA|I-VEH|U-ORG I-WEA|I-VEH|B-VEH I-WEA|I-VEH|I-VEH I-WEA|I-VEH|L-VEH I-WEA|L-VEH I-WEA I-WEA|B-VEH I-WEA|I-VEH I-WEA|I-VEH|B-VEH I-WEA|I-VEH|I-VEH I-WEA|I-VEH|L-VEH I-WEA|I-VEH I-WEA|I-VEH I-WEA|I-VEH I-WEA|I-VEH|B-PER|U-GPE L-WEA|L-VEH|L-PER O
+Currently , Indonesia uses short - range Rapier missiles purchased 30 years ago to protect its vital oil and natural gas fields in Sumatra , Borneo and Papua from air attack .	O O U-GPE O B-WEA I-WEA I-WEA I-WEA|U-WEA I-WEA I-WEA I-WEA I-WEA I-WEA I-WEA I-WEA I-WEA|B-FAC|U-GPE I-WEA|I-FAC I-WEA|I-FAC I-WEA|I-FAC I-WEA|I-FAC I-WEA|I-FAC I-WEA|I-FAC I-WEA|I-FAC I-WEA|I-FAC|U-GPE I-WEA|I-FAC I-WEA|I-FAC|U-GPE I-WEA|I-FAC I-WEA|L-FAC|U-GPE I-WEA I-WEA L-WEA O
+` ` Replenishing them has been a big problem , ' ' Sudarsono said .	O O O U-FAC O O O O O O O O U-PER O O
+Air defense commanders want to augment the Rapiers with Russia ' s impressive long - range S - 300 missiles , or shorter - range systems such as the SA - 15 Gauntlet or shoulder - fired Igla .	B-PER I-PER L-PER O O O B-WEA L-WEA O B-WEA|U-GPE I-WEA I-WEA I-WEA I-WEA I-WEA I-WEA I-WEA|B-WEA I-WEA|I-WEA I-WEA|L-WEA L-WEA O O B-WEA I-WEA I-WEA I-WEA I-WEA I-WEA I-WEA|B-WEA I-WEA|I-WEA I-WEA|I-WEA I-WEA|I-WEA I-WEA|L-WEA I-WEA I-WEA|B-WEA I-WEA|I-WEA I-WEA|I-WEA L-WEA|L-WEA O
+The Air Force is reportedly considering purchasing several squadrons of Sukhoi Su - 27 interceptors , considered the world ' s premier dogfighters .	B-ORG I-ORG L-ORG O O O O B-VEH I-VEH I-VEH I-VEH|B-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|L-VEH I-VEH I-VEH I-VEH I-VEH|B-VEH|B-LOC I-VEH|I-VEH|L-LOC I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH L-VEH|L-VEH O
+Previously , Indonesian Air Force commanders preferred Western jets that were compatible with the U . S . - made F - 16 fighter - bombers already in the Indonesian inventory .	O O B-PER|U-GPE I-PER|B-ORG I-PER|L-ORG L-PER O B-VEH|U-GPE I-VEH I-VEH|U-VEH I-VEH I-VEH I-VEH I-VEH|B-VEH I-VEH|I-VEH|B-GPE I-VEH|I-VEH|I-GPE I-VEH|I-VEH|L-GPE I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH|B-VEH I-VEH|I-VEH|I-VEH I-VEH|I-VEH|L-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH|U-GPE L-VEH|L-VEH O
+But neighboring Malaysia ' s success in integrating Russian MiG - 29s and American F / A - 18 Hornets persuaded them otherwise , Sudarsono said .	O B-GPE L-GPE O O O O O B-VEH|U-GPE I-VEH I-VEH L-VEH O B-VEH|U-GPE I-VEH|B-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|I-VEH I-VEH|L-VEH L-VEH O U-PER O O U-PER O O
+If Megawati does stiff - arm the United States on the weapons issue , it is unlikely relations with Washington will be permanently damaged .	O U-PER O O O O B-GPE I-GPE L-GPE O O U-WEA O O O O O O O U-GPE O O O O O
+Whatever happens , Indonesia , a mainly Muslim but politically secular state , is natural ally in the struggle against terrorism and religious militancy .	O O O U-GPE O B-GPE I-GPE I-GPE|U-PER I-GPE I-GPE I-GPE L-GPE O O B-GPE I-GPE I-GPE I-GPE I-GPE I-GPE I-GPE I-GPE I-GPE L-GPE O
+What could be more worrying for Washington is Russia ' s economic ambitions .	O O O O O O U-GPE O U-GPE O O O O O
+Trade between Indonesia and Russia increased by dlrs 36 . 2 million to dlrs 203 . 5 million in 2001 _ the last year for which statistics are available .	O O U-GPE O U-GPE O O O O O O O O O O O O O O O O O O O O O O O O O
+Analysts say this can only grow .	U-PER O O O O O O
+The real concerns , though , are in the petroleum sector .	O O O O O O O O B-ORG I-ORG L-ORG O
+Megawati and Putin are expected to sign agreements to give Russian companies a toehold in Indonesia ' s oil and gas industry , long dominated by American and British giants such as Exxon Mobil and BP .	U-PER O U-PER O O O O O O O B-ORG|U-GPE L-ORG O O O B-ORG|U-GPE I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O O O O B-ORG|U-GPE I-ORG I-ORG|U-GPE L-ORG O O B-ORG L-ORG O U-ORG O
+Appeal launched against Russian journalist ' s treason conviction	O O O O O O O O O
+MOSCOW ( AP )	U-GPE O U-ORG O
+The lawyer for a Russian military journalist convicted of treason filed an appeal Wednesday in an effort to overturn the guilty verdict against his client , who was released on parole earlier this year , news agencies reported .	B-PER I-PER I-PER I-PER|B-PER I-PER|I-PER|B-ORG|U-GPE I-PER|I-PER|L-ORG I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O O O O O O O O O O O O B-PER|U-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O B-ORG L-ORG O O
+Grigory Pasko ' s lawyer Genri Reznik filed the appeal with Russian Supreme Court , the Interfax and ITAR - Tass news agencies reported .	B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER B-PER L-PER O O O O B-ORG I-ORG L-ORG O B-ORG I-ORG|U-ORG I-ORG I-ORG|B-ORG I-ORG|I-ORG I-ORG|L-ORG I-ORG L-ORG O O
+He asked the court to invalidate the verdict and throw out the criminal case against Pasko , they said .	U-PER O B-ORG L-ORG O O O O O O O O O O O U-PER O U-ORG O O
+Pasko was sentenced to four years in prison in December 2001 for illegally attending a meeting of top military commanders and taking notes there .	U-PER O O O O O O O O O O O O O O O O B-PER I-PER|U-ORG L-PER O O O O O
+A military court said he intended to pass the notes to Japanese media with which he had worked .	B-ORG I-ORG|U-ORG L-ORG O U-PER O O O O O O B-ORG|U-GPE I-ORG I-ORG I-ORG|U-ORG I-ORG|U-PER I-ORG L-ORG O
+Pasko , whose sentence included time served , was released in January for good behavior after serving more than two - thirds of the sentence .	U-PER O U-PER O O O O O O O O O O O O O O O O O O O O O O O
+He has maintained his innocence , saying the military was punishing him for exposing environmental abuses by the Russian navy , including the dumping of radioactive waste into the sea .	U-PER O O U-PER O O O B-ORG L-ORG O O U-PER O O O O O B-ORG I-ORG|U-GPE L-ORG O O O O O O O O B-LOC L-LOC O
+Reznik said an initial appeal he lodged the day Pasko was freed never reached the presidium of the Supreme Court , according to Interfax .	U-PER O O O O U-PER O O O U-PER O O O O B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG L-PER|L-ORG O O O U-ORG O
+The lawyer said the court ' s military board had refused to launch proceedings on the appeal .	B-PER L-PER O B-PER|B-ORG I-PER|L-ORG I-PER I-PER I-PER|U-ORG L-PER O O O O O O O O O
+Reznik said he addressed the new appeal directly to Supreme Court Chairman Vyacheslav Lebedev and asked that it not be considered by military judges ` ` because the military justice system has adopted a biased attitude against Pasko , ' ' Interfax reported .	U-PER O U-PER O O O O O O B-PER|B-PER|B-ORG I-PER|I-PER|L-ORG I-PER|L-PER I-PER L-PER O O O O O O O O B-PER|U-ORG L-PER O O O O U-ORG O O O O O O O O U-PER O O O U-ORG O O
+Malaysian court rejects Anwar ' s appeal against sodomy conviction	O O O O O O O O O O
+KUALA LUMPUR , Malaysia ( AP )	B-GPE I-GPE I-GPE L-GPE|U-GPE O U-ORG O
+Malaysia ' s second highest court on Friday rejected an appeal by jailed former Deputy Prime Minister Anwar Ibrahim against his conviction and nine - year prison sentence for sodomy .	B-ORG|U-GPE I-ORG I-ORG I-ORG I-ORG L-ORG O O O O O O B-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|L-PER I-PER L-PER O U-PER O O O O O U-FAC O O O O
+A three - judge panel of the Court of Appeals unanimously upheld a verdict by High Court Judge Arifin Jaka nearly three years ago that found Anwar guilty of sodomizing his wife ' s former driver .	B-PER I-PER|B-PER I-PER|I-PER I-PER|L-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG L-PER|L-ORG O O O O O B-PER|B-PER|B-ORG I-PER|I-PER|L-ORG I-PER|L-PER I-PER L-PER O O O O O O U-PER O O O B-PER|B-PER|U-PER I-PER|L-PER I-PER I-PER I-PER L-PER O
+Sodomy is a crime in this predominantly Muslim Southeast Asian country .	O O O O O B-GPE I-GPE I-GPE|U-PER I-GPE|B-GPE I-GPE|L-GPE L-GPE O
+Anwar is expected to appeal again with the Federal Court , Malaysia ' s highest court .	U-PER O O O O O O B-ORG I-ORG L-ORG O B-ORG|U-GPE I-ORG I-ORG I-ORG L-ORG O
+Speaking to reporters after the verdict , Anwar lambasted the judges , saying they had been ` ` preselected ' ' by the government to quash his appeal .	O O U-PER O O O O U-PER O B-PER L-PER O O U-PER O O O O O O O O B-ORG L-ORG O O U-PER O O
+` ` These are spineless judges , ' ' Anwar said .	O O U-PER O B-PER L-PER O O O U-PER O O
+` ` This decision is all scripted . ' '	O O O O O O O O O O
+The judges also rejected an application by Anwar to be released on bail .	B-PER L-PER O O O O O U-PER O O O O O O
+But Anwar ' s lawyers said they were filing a fresh request for bail pending a further appeal .	O B-PER|U-PER I-PER I-PER L-PER O U-PER O O O O O O O O O O O O
+On Monday , Anwar completed his sentence for a separate conviction on corruption charges , after the six - year sentence was reduced by one - third for good behavior .	O O O U-PER O U-PER O O O O O O O O O O O O O O O O O O O O O O O O O
+He then began serving the nine - year prison sentence for sodomy , his lawyers said .	U-PER O O O O O O O U-FAC O O O O B-PER|U-PER L-PER O O
+Prime Minister Mahathir Mohamad fired Anwar , his former protege , in 1998 following disputes over financial policy .	B-PER|B-PER I-PER|L-PER I-PER L-PER O U-PER O B-PER|U-PER I-PER L-PER O O O O O O O O O
+Anwar led large protests against Mahathir before he was arrested , charged and convicted on corruption and sodomy charges .	U-PER O O O O U-PER O U-PER O O O O O O O O O O O O
+Anwar claims the charges were fabricated to keep him from challenging Mahathir for power .	U-PER O O O O O O O U-PER O O U-PER O O O
+The government denies this .	B-ORG L-ORG O O O
+Human rights group Amnesty International said Friday ' s verdict ` ` represents another step in the further deterioration in the human rights situation in the country . ' '	B-ORG|B-ORG|U-PER I-ORG|I-ORG I-ORG|L-ORG I-ORG L-ORG O O O O O O O O O O O O O O O O U-PER O O O B-GPE L-GPE O O O
+` ` This decision adds to the already widespread perception that in politically sensitive cases , the independence of the judiciary can no longer be guaranteed , ' ' the London - based group said in a statement .	O O O O O O O O O O O O O O O O O O O B-ORG L-ORG O O O O O O O O B-ORG I-ORG|U-GPE I-ORG I-ORG L-ORG O O O O O
+` ` Today , the situation looks much bleaker . ' '	O O O O O O O O O O O O
+Param Cumaraswamy , the U . N . special investigator on the freedom of judges and lawyers , said in a statement : ` ` So long as there are judges who are prepared to and continue to compromise the value and principles of their high office . . . there is no hope for judicial independence and impartiality in the Malaysian justice system . ' '	B-PER L-PER O B-PER I-PER|B-ORG I-PER|I-ORG I-PER|L-ORG I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-PER I-PER L-PER|U-PER O O O O O O O O O O O O O U-PER U-PER O O O O O O O O O O O O U-PER O O O O O O O O O O O O O O O B-ORG I-ORG|U-GPE I-ORG L-ORG O O O
+About 200 demonstrators outside the court shouted Anwar ' s slogan of ` ` Reformasi ! ' '	B-PER I-PER I-PER I-PER I-PER|B-FAC L-PER|L-FAC O U-PER O O O O O O O O O O
+for political change .	O O O O
+Police armed with automatic weapons stood by to prevent rowdiness .	B-PER I-PER I-PER I-PER|B-WEA L-PER|L-WEA O O O O O O
+The court also dismissed a joint appeal by Anwar ' s adopted brother , Sukma Darmawan , who was convicted together with Anwar for sodomy in August 2000 and sentenced to six years in jail and whipping .	B-ORG L-ORG O O O O O O B-PER|U-PER I-PER I-PER I-PER L-PER O B-PER L-PER O U-PER O O O O U-PER O O O O O O O O O O O U-FAC O O O
+Sukma has been free on bail pending appeal , but the judges on Friday ordered him to begin his sentence .	U-PER O O O O O O O O O B-PER L-PER O O O U-PER O O U-PER O O
+Shaquille O ' Neal ' s wife gives birth to baby boy	O O O O O O O O O O O O
+EL SEGUNDO , California ( AP )	B-GPE I-GPE I-GPE L-GPE|U-GPE O U-ORG O
+Shaquille O ' Neal ' s wife gave birth to a baby boy early Saturday , eliminating any chance that the Los Angeles Lakers center might skip a playoff game to witness the birth .	B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|L-PER I-PER I-PER L-PER O O O B-PER I-PER L-PER O O O O O O O B-PER I-PER|B-ORG I-PER|I-ORG I-PER|L-ORG L-PER O O O O O O O O O O
+Shaunie O ' Neal gave birth to the couple ' s third child at 1 : 52 a . m . at a Los Angeles - area hospital , team spokesman John Black said .	B-PER I-PER I-PER L-PER O O O B-PER|B-PER I-PER|L-PER I-PER I-PER I-PER L-PER O O O O O O O O O B-FAC I-FAC|B-LOC|B-GPE I-FAC|I-LOC|L-GPE I-FAC|I-LOC I-FAC|L-LOC L-FAC O B-PER|B-PER|U-ORG I-PER|L-PER I-PER L-PER O O
+He did not provide the baby ' s name or other details .	U-PER O O O B-PER L-PER O O O O O O O
+O ' Neal was excused from Saturday ' s practice .	B-PER I-PER L-PER O O O O O O O O
+He was scheduled to fly on his own to Minneapolis late Saturday for Sunday ' s opening game of a first - round playoff series against the Minnesota Timberwolves .	U-PER O O O O O U-PER O O U-GPE O O O O O O O O O O O O O O O O B-ORG I-ORG L-ORG O
+` ` We ' re really happy for the delivery of a child and the fact that everything ' s safe and sound and we can go forward from there , ' ' coach Phil Jackson said .	O O U-ORG O O O O O O O O B-PER L-PER O O O O O O O O O O O U-ORG O O O O O O O O B-PER|U-PER I-PER L-PER O O
+` ` Hopefully he can get to Minneapolis , get some rest and be ready to play the first game .	O O O U-PER O O O U-GPE O O O O O O O O O O O O O
+That ' s a pivotal game for every team . ' '	O O O O O O O B-ORG L-ORG O O O
+O ' Neal had said he could not rule out missing a game to witness the birth .	B-PER I-PER L-PER O O U-PER O O O O O O O O O O O O
+The due date was April 27 , the same day as Game 4 of the best - of - seven series between the Timberwolves and the Lakers .	O O O O O O O O O O O O O O O O O O O O O O B-ORG L-ORG O B-ORG L-ORG O
+Teammate Kobe Bryant said he would not be surprised if O ' Neal had a big game Sunday despite his expected late arrival in Minneapolis .	B-PER|U-PER I-PER L-PER O U-PER O O O O O B-PER I-PER L-PER O O O O O O U-PER O O O O U-GPE O
+` ` You just roll off the adrenaline , ' ' said Bryant , who scored 48 points in a 2001 playoff game at Sacramento after leaving the team to attend to a personal matter .	O O U-PER O O O O O O O O O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-GPE I-PER I-PER I-PER|B-ORG I-PER|L-ORG I-PER I-PER I-PER I-PER I-PER L-PER O
+The birth comes days after the death of O ' Neal ' s maternal grandfather , Sirlester O ' Neal .	O O O O O O O O B-PER|B-PER I-PER|I-PER I-PER|L-PER I-PER I-PER I-PER L-PER O B-PER I-PER I-PER L-PER O
+Funeral services are expected to be held this week in South Carolina , Black said .	O O O O O O O O O O B-GPE L-GPE O U-PER O O
+O ' Neal is expected to attend .	B-PER I-PER L-PER O O O O O
+Seven convicted in Vietnamese crime boss ' trial to appeal their sentences	O O O O O O O O O O O O
+HANOI , Vietnam ( AP )	U-GPE O U-GPE O U-ORG O
+Seven people convicted last week in Vietnam ' s biggest - ever criminal trial , including two former senior government officials , have requested an appeal of the verdicts , a court official said Tuesday .	B-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-GPE I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|U-GPE L-PER|L-PER O O O O O O O O O B-PER I-PER|U-ORG L-PER O O O
+The seven include former state radio director Tran Mai Hanh and former vice national chief prosecutor Pham Sy Chien , both convicted of receiving bribes , the court official said on condition of anonymity .	B-PER L-PER O B-PER|B-PER I-PER|I-PER|B-ORG|U-GPE I-PER|I-PER|L-ORG I-PER|L-PER I-PER I-PER L-PER O B-PER|B-PER I-PER|I-PER I-PER|I-PER|U-GPE I-PER|I-PER I-PER|L-PER I-PER I-PER L-PER O U-PER O O O O O B-PER I-PER|U-ORG L-PER O O O O O O
+The trial by a Ho Chi Minh City court was seen as a litmus test of the communist government ' s resolve to fight widespread corruption .	O O O B-ORG I-ORG|B-GPE I-ORG|I-GPE I-ORG|I-GPE I-ORG|L-GPE L-ORG O O O O O O O B-GPE I-GPE L-GPE O O O O O O O O
+The ` ` godfather ' ' of organized crime , Truong Van Cam _ better known as Nam Cam _ was convicted of seven crimes , including murder .	B-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|B-ORG L-PER|L-ORG O B-PER I-PER L-PER O O O O B-PER L-PER O O O O O O O O O O
+He was sentenced to face a firing squad , and his lawyer has said he also plans to appeal .	U-PER O O O O B-PER I-PER L-PER O O B-PER|U-PER L-PER O O U-PER O O O O O
+Hanh , also a former member of the powerful Communist Party Central Committee , was convicted of receiving US $ 8 , 500 in bribes from Nam Cam ' s family to secure the crime boss ' early release from labor camp in 1990s .	U-PER O O B-PER I-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG|B-ORG I-PER|I-ORG|L-ORG I-PER|I-ORG L-PER|L-ORG O O O O O O O O O O O O O B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O B-PER I-PER L-PER O O O O B-FAC L-FAC O O O
+Hanh was sentenced to 10 years in jail .	U-PER O O O O O O U-FAC O
+Chien was convicted of receiving a stereo set worth 27 million dong ( US $ 1 , 750 ) from Nam Cam ' s family and sentenced to six years in jail .	U-PER O O O O O O O O O O O O O O O O O O O B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O O O O O U-FAC O
+Five other people who were sentenced up to five years in jail for crimes such as gambling and receiving bribes have also filed appeals , the official said .	B-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-FAC I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O O B-PER L-PER O O
+A total of 155 defendants stood trial during the three months of proceedings .	O O O B-PER L-PER O O O O O O O O O
+All but five were convicted .	B-PER I-PER L-PER O O O
+One defendant was acquitted , while the court sent four other cases back to police for further investigation .	B-PER L-PER O O O O B-ORG L-ORG O O O O O O U-ORG O O O O
+Under Vietnamese law , the convicted have 15 days to appeal their sentences .	O U-GPE O O B-PER L-PER O O O O O U-PER O O
+CHEEKS CAN INTERVIEW WITH SIXERS	O O O O O
+EAST RUTHERFORD , N . J .	B-GPE I-GPE I-GPE I-GPE|B-GPE I-GPE|I-GPE L-GPE|L-GPE O
+Portland Trail Blazers coach Maurice Cheeks received permission Monday to interview for the Philadelphia 76ers ' vacant coaching job , possibly dooming the candidacy of Eddie Jordan , a Nets assistant who interviewed for that same position earlier this week .	B-PER|B-PER|B-ORG I-PER|I-PER|I-ORG I-PER|I-PER|L-ORG I-PER|L-PER I-PER L-PER O O O O O O B-ORG I-ORG L-ORG O O O O O O O O O O B-PER L-PER O B-PER I-PER|U-ORG I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O
+Cheeks , a former Sixers star , is believed to be Philadelphia ' s top choice to replace Larry Brown , who resigned last week as coach and was introduced Monday as the coach of the Detroit Pistons .	U-PER O B-PER I-PER I-PER|U-ORG L-PER O O O O O B-PER|U-ORG I-PER I-PER I-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|U-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|U-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|B-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER|B-ORG I-PER|I-PER|I-PER|I-ORG L-PER|L-PER|L-PER|L-ORG O
+Portland finally gave Cheeks the go - ahead to interview with the Sixers , according to a league source familiar with the discussions .	U-ORG O O U-PER O O O O O O O B-ORG L-ORG O O O B-PER I-PER|U-ORG I-PER I-PER I-PER I-PER L-PER O
+The Cleveland Cavaliers also formally introduced Paul Silas as their coach Monday .	B-ORG I-ORG L-ORG O O O B-PER L-PER O B-PER|U-ORG L-PER O O
+Jordan met with the Sixers on Sunday , according to a person close to the situation .	U-PER O O B-ORG L-ORG O O O O O B-PER I-PER I-PER I-PER I-PER L-PER O
+Jordan declined to comment on the conversation .	U-PER O O O O O O O
+While Jordan has been rumored to be a candidate for a number of spots , only Toronto and Philadelphia have inquired about him .	O U-PER O O O O O B-PER I-PER I-PER I-PER I-PER I-PER L-PER O O U-ORG O U-ORG O O O U-PER O
+Brown takes over a team that won an Eastern Conference - leading 50 games and advajcuf to the conference finals before being swept by the Nets .	U-PER O O B-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG|B-ORG I-ORG|L-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|B-ORG L-ORG|L-ORG O
+Detroit holds the No .	U-ORG O O O O
+2 pick in the upcoming NBA draft .	O O O O O U-ORG O O
+Silas is taking over a team that lost 65 games and will pin its future on the high school phenom LeBron James .	U-PER O O O B-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG|B-PER|B-PER I-ORG|I-PER|I-PER|B-ORG I-ORG|I-PER|I-PER|L-ORG I-ORG|I-PER|L-PER I-ORG|I-PER L-ORG|L-PER O
+Five distinguished PolyU graduates honored	O O O O O
+HONG KONG , March 27 ( Xinhua )	B-GPE L-GPE O O O O U-ORG O
+The Hong Kong Polytechnic University ( PolyU ) presented its " Outstanding Alumni Award " to five alumni here Thursday to pay tribute to their remarkable professional achievements and significant contributions to their alma mater and the community .	B-ORG I-ORG I-ORG I-ORG L-ORG O U-ORG O O U-ORG O O O O O O B-PER L-PER U-GPE O O O O O U-PER O O O O O O O B-ORG|U-PER I-ORG L-ORG O O O O
+Professor John Lee Hak - shan at the Department of Mechanical Engineering of McGill University of Canada , Rebecca Lee Lok - sze , Founder and Director of China Polar Museum Foundation , Humphrey Leung Kwong - wai , President & Managing Director of Solomon Systech Limited , Liu Sing - cheong , Founder and Managing Director of Pearl River Hang Cheong Real Estate Consultants Ltd , and Samuel Wong King - on , International Deputy President of the Association of Chartered Certified Accountants .	B-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG|B-ORG I-PER|I-ORG|I-ORG I-PER|I-ORG|I-ORG L-PER|L-ORG|L-ORG|U-GPE O B-PER I-PER I-PER I-PER L-PER O B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|B-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG L-PER|L-PER|L-ORG O B-PER I-PER I-PER I-PER L-PER O B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|B-ORG I-PER|I-PER|I-ORG L-PER|L-PER|L-ORG O B-PER I-PER I-PER L-PER O B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|B-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG I-PER|I-PER|I-ORG L-PER|L-PER|L-ORG O O B-PER I-PER I-PER I-PER L-PER O B-PER I-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG L-PER|L-ORG O
+Renowned as the world ' s first woman explorer who has reached the Arctic , the Antarctica and Mount Everest , Lee has made immense contributions toward polar exploration over the past 20 years .	O O B-PER|B-LOC I-PER|L-LOC I-PER I-PER I-PER I-PER|U-PER I-PER I-PER|U-PER I-PER I-PER I-PER|B-LOC I-PER|L-LOC I-PER I-PER|B-GPE I-PER|L-GPE I-PER I-PER|B-LOC L-PER|L-LOC O U-PER O O O O O O O O O O O O O
+In 1997 , she successfully founded the China Polar Museum Foundation with a view to consolidating scientific research findings about polar exploration from all over the world to advance global environmental protection .	O O O U-PER O O B-ORG I-ORG I-ORG I-ORG L-ORG O O O O O O O O O O O O O O B-LOC L-LOC O O O O O O
+Launched in 1996 , the biennial alumni selection is jointly organized by PolyU and the Federation of PolyU Alumni Associations for the fourth time , so as to accord public recognition to outstanding graduates of the university .	O O O O O O U-PER O O O O O U-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O O O O O O O O O O O O B-PER I-PER I-PER I-PER|B-ORG L-PER|L-ORG O
+the search for a small plane that disappeared sunday in massachusetts has a bittersweet ending .	O O O B-VEH I-VEH I-VEH I-VEH|U-VEH I-VEH I-VEH I-VEH L-VEH|U-GPE O O O O O
+three young boys , ages 2 , 5 and 10 survived and are in critical condition after spending in 18 hours in the cold .	B-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O O O O O O O O O O O O
+the father , who was piloting the plane , also was rescued , but died late yesterday at the hospital .	B-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER|B-VEH L-PER|L-VEH O O O O O O O O O O B-FAC L-FAC O
+the boys ' mother and two other brothers were killed .	B-PER|B-PER I-PER|L-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER L-PER|L-PER O O O
+officials say the pilot reported ice on the plane and planned to land in massachusetts when the plane left radar .	U-PER O B-PER L-PER O O O B-VEH L-VEH O O O O O U-GPE O B-VEH L-VEH O O O
+aviators described the scene as they approached it from above .	U-PER O O O O U-PER O O O O O
+the aircraft was - - the cabin was intact completely .	B-VEH L-VEH O O O B-VEH L-VEH O O O O
+the wings were off of it .	O O O O O U-VEH O
+but it looked like a survivable crash .	O O O O O O O O
+initially the wreckage was spotted , and there was no person spotted .	O O O O O O O O O B-PER L-PER O O
+but when we moved in closer and started to scan the area , then i saw the 2 - year - old waving from next to the airplane .	O O U-PER O O O O O O O O O O O U-PER O B-PER I-PER I-PER I-PER I-PER L-PER O O O O B-VEH L-VEH O
+the family had been heading to new hampshire from lakeland , florida when their plane went down .	B-PER L-PER O O O O B-GPE L-GPE O B-GPE I-GPE L-GPE|U-GPE O B-VEH|U-PER L-VEH O O O
+if you are one of the many unemployed , expect company .	O U-PER O B-PER I-PER I-PER|B-PER I-PER|I-PER L-PER|L-PER O O U-PER O
+valerie morris joins us live from new york with that story .	B-PER L-PER O U-PER O O B-GPE L-GPE O O O O
+valerie ?	U-PER O
+hi , renay , sharon .	O O U-PER O U-PER O
+the pace of job cuts is quickening .	O O O O O O O O
+the survey by challenger gray and christmas says layoffs rose about 5 % in february .	O O O B-ORG I-ORG I-ORG L-ORG O O O O O O O O O
+that ' s the second straight monthly increase .	O O O O O O O O O
+the ax fell heavily on government and non - profit workers as many state and local governments face severe budget crunches .	O O O O O B-PER|U-ORG I-PER I-PER I-PER I-PER L-PER O B-ORG I-ORG|U-GPE I-ORG I-ORG L-ORG O O O O O
+the u . s . economy has lost more than 2 million jobs in the past two years .	O B-GPE I-GPE L-GPE O O O O O O O O O O O O O O O
+airlines are getting flyers to destinations ontime more often .	U-ORG O O U-PER O O O O O O
+the top ten air carriers arrived ontime more and cancelled fewer flights in january than the month before .	B-ORG I-ORG I-ORG I-ORG L-ORG O O O O O O O O O O O O O O
+a government report says the improvements are the result of changes in air traffic controls , and a dropoff in passengers .	O U-ORG O O O O O O O O O O O O O O O O O O U-PER O
+despite operating under bankruptcy laws , united posted the best on time performance .	O O O O O O U-ORG O O O O O O O
+united also cancelled the fewest flights .	U-ORG O O O O O O
+still united lost $ 382 million in january .	O U-ORG O O O O O O O
+and one other note of improvement .	O O O O O O O
+airlines reported fewer complaints about lost , damaged or delayed luggage .	U-ORG O O O O O O O O O O O
+turning to wall street .	O O B-ORG L-ORG O
+disappointing auto sales are denting the shares of the big three .	O U-VEH O O O O O O B-ORG I-ORG L-ORG O
+of course there are ongoing fears about terrorism and a war with iraq .	O O O O O O O O O O O O U-GPE O
+the dow has slipped 116 points .	O O O O O O O
+the nasdaq is @ down three	O O O O O O
+2003 - 03 - 04 14 : 43 : 22	O O O O O O O O O O
+and the dixie chicks open their u . s . tour tomorrow night in greenville , south carolina .	O B-ORG I-ORG L-ORG O U-ORG B-GPE I-GPE L-GPE O O O O O B-GPE I-GPE I-GPE|B-GPE L-GPE|L-GPE O
+the popular band has been criticized within country music circles for comments by lead singer natalie maines .	B-ORG I-ORG L-ORG O O O O B-PER I-PER L-PER O O O B-PER|B-PER I-PER|L-PER I-PER L-PER O
+she said she was embarrassed to be from the same state as president bush .	U-PER O U-PER O O O O O B-GPE I-GPE I-GPE I-GPE I-GPE|B-PER|U-PER L-GPE|L-PER O
+she has since apologized for her remarks .	U-PER O O O O U-PER O O
+those dixie chicks .	B-ORG I-ORG L-ORG O
+speaking of chicks - - call it puppy love .	O O O O O O O O O O
+call it maternal instinct , but , mostly it ' s just out of the ordinary .	O O O O O O O O O O O O O O O O O
+andrea ash from kezi in portland has this story of chicken that decided to take a new day job .	B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG L-PER|L-ORG|U-GPE O O O O O O O O O O O O O O
+reporter : people have long struggled with the question , why did the chicken cross the road ?	O O U-PER O O O O O O O O O O O O B-FAC L-FAC O
+2 - but all the scott family wants to know is , why did a chicken adopt their ten new puppies ?	O O O O B-PER I-PER|U-PER L-PER O O O O O O O O O O U-PER O O O O
+every time we looked out our window it was like , what is she doing in there ?	O O U-PER O O U-PER O O O O O O O O O O O O
+it looks so out of place .	O O O O O O O
+it ' s just funny .	O O O O O O
+reporter : the puppies were born easter sunday .	O O O O O O O O O
+soon after , one of the families three chickens flew the coop and took up residence in the crate built especially for the puppies .	O O O O O B-PER L-PER O O O B-FAC L-FAC O O O O O O O O O O O O O
+they goes in there and nuzzles with the puppies , or lays her eggs and sits there with the mother .	O O O O O O O O O O O O O O O O O O O O O
+they ' re just all happy , a little family in there .	O O O O O O O O O O O O O
+reporter : at first the sight shock the scott family .	O O O O O O O B-PER I-PER|U-PER L-PER O
+they tried to shoo the hen away but she kept coming back .	U-PER O O O O O O O O O O O O
+even putting up baby gates to try to keep the chicken out .	O O O U-PER O O O O O O O O O
+no match for her .	O O O O O
+she simply flew over .	O O O O O
+it also got past the puppies ' protective father .	O O O O O O O O O O
+i am going to sit with these punies .	U-PER O O O O O O O O
+reporter : the scotts ran it past their vet and the vet assured the em if a , as long as the hen left her crate to the do business , she was no harm to the pup .	O O B-PER L-PER O O O B-PER|U-PER L-PER O B-PER L-PER O B-PER L-PER O O O O O O O O O O O O O O O O O O O O O O O O
+the family says the chicken keeps the place clean .	B-PER L-PER O O O O O O O O
+so she ' s free to stay .	O O O O O O O O
+a pretty good relationship with that chicken .	O O O O O O O O
+she doesn ' t mind them crawling around underneath her .	O O O O O O O O O O O
+reporter : when the mom comes in , the puppies know exactly where to go for milk - - sort of pt a little confusion .	O O O O O O O O O O O O O O O O O O O O O O O O O O
+the pips don ' t exactly know the difference between fur and feathers yet .	O O O O O O O O O O O O O O O
+after all , they ' re only a week old .	O O O O O O O O O O O
+eventually they all find the real mom .	O O O O O O O O
+no one know what ' s will happen as the pups grow older and are able to open their eyes .	B-PER L-PER O O O O O O O O O O O O O O O O O O O
+chances are , they ' ll always have a fondness from one hen .	O O O O O O O O O O O O O O
+those puppies are in for a heck of a surprise when they do open their eyes .	O O O O O O O O O O O O O O O O O
+aren ' t they ?	O O O O O
+the puppies come home to roost !	O O O O O O O
+that ' s a good one .	O O O O O O O
+that was a great story .	O O O O O O
+we ' ll try to follow that in our next half hour .	U-ORG O O O O O O O U-ORG O O O O
+we ' ll hil you what the ftc is doing to crack down on internekz auction fraud .	U-ORG O O O U-PER O B-ORG L-ORG O O O O O O O O O O
+that and the top stories in just two minutes .	O O O O O O O O O O
+i ' m mike galanos .	U-PER O O B-PER L-PER O
+and i ' m rudi bakhtiar .	O U-PER O O B-PER L-PER O
+we leave you with sountds from willie nelson , the country legend is celebrating his 70th birthday .	U-ORG O U-PER O O O B-PER L-PER O B-PER I-PER L-PER O O U-PER O O O
+this is cnn " headline news tonight . "	O O U-ORG O O O O O O
+2003 - 04 - 30 23 : 33 : 13	O O O O O O O O O O
+5 , 400 sailors and marines are back at home after serving in iraq .	B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O O U-GPE O O O U-GPE O
+they ' re the crew of the " uss harry s .	U-PER O O O O O O O O O O O
+truman . "	O O O
+they have reunited with their families and friends , at the aircraft carrier ' s home port in norfolk , virginia .	U-PER O O O B-PER|B-PER|U-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O B-FAC|B-VEH I-FAC|I-VEH|U-VEH I-FAC|I-VEH I-FAC|I-VEH I-FAC|L-VEH I-FAC I-FAC I-FAC I-FAC|B-GPE I-FAC|I-GPE L-FAC|L-GPE|U-GPE O
+the " truman " is the first east coast - based carrier to return from the war .	B-VEH I-VEH L-VEH O O B-VEH I-VEH I-VEH|B-LOC I-VEH|L-LOC I-VEH I-VEH I-VEH I-VEH I-VEH I-VEH I-VEH L-VEH O
+2003 - 05 - 23 23 : 13 : 46	O O O O O O O O O O
+a man in new york is facing attempted murder charges after allegedly throwing his baby seven stories to the ground below .	B-PER I-PER I-PER I-PER|B-GPE L-PER|L-GPE O O O O O O O O B-PER|U-PER L-PER B-FAC L-FAC O O O O O
+jordeena ginsburg from news 12 westchester has the story .	B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG L-PER|L-ORG O O O O
+reporter : police measure the spot where ten months old miana williams landed after she was thrown from a seventh floor window at this apartment building .	O O U-PER O O O O B-PER I-PER I-PER I-PER L-PER O O U-PER O O O O B-FAC L-FAC O O B-FAC I-FAC|U-FAC L-FAC O
+the baby fell 80 feet .	B-PER L-PER O O O O
+these tree branches cushioned her fall and saved her life .	O O O O U-PER O O O U-PER O O
+the baby ' s aunt didn ' t want her face shown on tv but told us she was stunned .	B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O O O U-PER O O O O O O U-ORG U-PER O O O
+i ' m glad she ' s alive .	U-PER O O O U-PER O O O O
+it ' s a miracle she survived .	O O O O O U-PER O O
+reporter : now willie williams the girl ' s father is qharthd attempted murder .	O O O B-PER L-PER B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O O O O
+it all started around 11 : 30 saturday night , when williams got into a fight with the baby ' s mother , jasmine .	O O O O O O O O O O O U-PER O O O O O B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O U-PER O
+he wanted to date her again and she wasn ' t interested .	U-PER O O O U-PER O O U-PER O O O O O
+cops say he allegedly kidnapped her in his car and threatened her but eventually brought her back to her home .	U-PER O U-PER O O U-PER O B-VEH|U-PER L-VEH O O U-PER O O O U-PER O O B-FAC|U-PER L-FAC O
+that ' s when police say he grabbed her daughter .	O O O O U-PER O U-PER O B-PER|U-PER L-PER O
+the father allegedly picked the baby up , dangled it out the window of the seventh floor , pulled the child back in .	B-PER L-PER O O B-PER L-PER O O O U-PER O O O O B-FAC I-FAC L-FAC O O B-PER L-PER O O O
+reporter : then the baby ' s mother made a frantic call to police .	O O O B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O O O O U-ORG O
+while she was on the phone , police say williams picked up the child again and this time , threw her out the window .	O U-PER O O O O O U-PER O U-PER O O B-PER L-PER O O O O O O U-PER O O O O
+then police say the baby ' s mother pulled out a kitchen knife opinion on the 911 tape you can hear williams tape say " go ahead kill me . "	O U-PER O B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O O B-WEA I-WEA L-WEA O O O O O U-PER O O U-PER O O O O O O U-PER O O
+still bleeding , he ran downstairs and scooped up the baby and took the baby to the hospital .	O O O U-PER O U-FAC O O O B-PER L-PER O O B-PER L-PER O B-FAC L-FAC O
+police were on his trail and found williams and the baby at mem norial hospital where	U-ORG O O U-PER O O O U-PER O B-PER L-PER O B-FAC I-FAC L-FAC U-FAC
+2003 - 06 - 24 23 : 33 : 57	O O O O O O O O O O
+walt rodgers , 3 - 7th cavalry says iraqi missile hit operation center for 2nd brigade 3rd infantry zrigs south baghdad , at least four dead , two soldiers and two journalists .	B-PER L-PER O B-ORG I-ORG I-ORG L-ORG O B-WEA|U-GPE L-WEA O B-FAC I-FAC I-FAC I-FAC|B-ORG I-FAC|I-ORG I-FAC|I-ORG I-FAC|L-ORG I-FAC I-FAC|B-LOC L-FAC|L-LOC O B-PER I-PER L-PER O O B-PER L-PER O B-PER L-PER O
+other report at least 15 are wounded .	U-PER O B-PER I-PER L-PER O O O
+some of them critically , hope to get walt up in a couple minutes to get more information on what is happening there .	B-PER I-PER L-PER|U-PER O O O O O U-PER O O O O O O O O O O O O O U-LOC O
+2003 - 04 - 07 09 : 09 : 46	O O O O O O O O O O
+a michigan teen who disappeared with a convicted killer and went on a three - week oddysey is in trouble with the law tonight .	B-PER I-PER|U-GPE I-PER I-PER|U-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|L-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O B-ORG L-ORG O O
+prosecutors charge lindsey ryan with stealing firearms from her parents ' home .	U-PER O B-PER L-PER O O U-WEA O B-FAC|B-PER|U-PER I-FAC|L-PER I-FAC L-FAC O
+police caught up with the two in california .	U-PER O O O B-PER L-PER O U-GPE O
+56 - year - old forry drake has been charged with interstate transport of a minor .	B-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O U-GPE O O B-PER L-PER O
+2003 - 04 - 11 19 : 35 : 55	O O O O O O O O O O
+in were also big celebrations at ft . hood , texas , home base to two other p . o . w . s , david williams and ronald young .	O O O O O O B-FAC I-FAC I-FAC I-FAC L-FAC|U-GPE O B-FAC I-FAC I-FAC I-FAC|B-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|L-PER I-FAC I-FAC|B-PER I-FAC|L-PER I-FAC I-FAC|B-PER L-FAC|L-PER O
+those pilots were captured on march 24th , after their apache helicopter went down in iraqi territory .	B-PER L-PER O O O O O O O B-VEH|U-PER I-VEH|U-VEH L-VEH O O O B-LOC|U-GPE L-LOC O
+today , their families are learning new and actually harrowing details about the days after their capture .	O O B-PER|U-PER L-PER O O O O O O O O O O O U-PER O O
+cnn national correspondent susan candiotti is with the young family in georgia , jamie cole by at ft . hood , texas , where she spoke to williams ' wife michelle .	B-PER|B-PER|U-ORG I-PER|I-PER I-PER|L-PER I-PER L-PER O O B-PER I-PER|U-PER I-PER I-PER L-PER|U-GPE O B-PER L-PER O O B-FAC I-FAC I-FAC I-FAC I-FAC|U-GPE I-FAC I-FAC|U-FAC I-FAC|U-PER I-FAC I-FAC I-FAC|B-PER|B-PER|U-PER I-FAC|I-PER|I-PER I-FAC|I-PER|L-PER L-FAC|L-PER O
+susan , why don ' t we start with you ?	U-PER O O O O O U-ORG O O U-PER O
+reporter : hello , judy .	O O O O U-PER O
+during a brief phone call with their son from kuwait on surngd the arm asked the young family not to get into any specific details about what happened during their son ' s capture and release .	O O O O O O B-PER|U-PER L-PER O U-GPE O O B-ORG L-ORG O B-PER I-PER|U-PER L-PER O O O O O O O O O O O B-PER|U-PER L-PER O O O O O O
+however , the family did get in a company of questions about how he was treated .	O O B-PER L-PER O O O O O O O O O U-PER O O O
+they learned he lost 20 pound pounds and also their son told them that in the last few days of his capture , things weren ' t so bad but that they were very rough in the beginning .	U-PER O U-PER O O O O O O B-PER|U-PER L-PER O U-PER O O O O O O O U-PER O O O O O O O O O O O O O O O O O O
+now they are learning more details that their son in fact was kicked and beaten after his capture , and that his fellow pilot david williams had a knife held to his throat immediately after an tur , according to an interview their son was allowed to conduct with " the washington post " , who flew with him into kuwait .	O U-PER O O O O O B-PER|U-PER L-PER O O O O O O O U-PER O O O O B-PER|B-PER|U-PER I-PER|I-PER I-PER|L-PER I-PER L-PER O B-WEA L-WEA O O U-PER O O O O O O O O O O B-PER|U-PER L-PER O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG|U-PER I-ORG L-ORG|U-GPE O
+their son is said to be in very good spirits now and back here in georgia , after three weeks of not knowing exactly what had happened to him , finally , for the very first time in three weeks , the young family members got some sleep last night for the first time in a long time .	B-PER|U-PER L-PER O O O O O O O O O O O U-GPE O U-GPE O O O O O O O O O O O O U-PER O O O O O O O O O O O O B-PER I-PER|B-PER|U-PER I-PER|L-PER L-PER O O O O O O O O O O O O O O
+well , at least some family members did .	O O O O B-PER I-PER|U-PER L-PER O O
+she slept pretty good .	U-PER O O O O
+i ' m not kidding .	U-PER O O O O O
+all right .	O O O
+i came home , she was in bed , i laid on the couch for a couple of hours , walked around , i thought , i ' m going to sleep tonight , i really am .	U-PER O U-FAC O U-PER O O O O U-PER O O O O O O O O O O O O O U-PER O O U-PER O O O O O O O U-PER O O O
+i got in there , laid downer she must have took a pill or something .	U-PER O O O O O O U-PER O O O O O O O O
+sounded like a saw mill going on next to me .	O O O O O O O O O U-PER O
+back on the couch again .	O O O O O O
+hey , i was tired .	O O U-PER O O O
+and besides , it was relief , you know ?	O O O O O O O U-PER O O
+i could finally sleep and know everything was okay .	U-PER O O O O O O O O O
+reporter : of course , pictures and videotape and a phone call is one thing .	O O O O O O O O O O O O O O O O
+but seeing their son in person is quite another .	O O B-PER|U-PER L-PER O O O O O O
+and they are , of course , hoping that will happen very soon .	O U-PER O O O O O O O O O O O O
+young ' s mother says , when she sees her son , she plans on hugging him for a good solid half hour .	B-PER|U-PER I-PER I-PER L-PER O O O U-PER O B-PER|U-PER L-PER O U-PER O O O U-PER O O O O O O O
+back to you , judy .	O O U-PER O U-PER O
+at least , we would think , if that ' s the case .	O O O U-ORG O O O O O O O O O O
+thanks very much .	O O O O
+let ' s turn to jamie at ft . hood , texas , where she ' s been talking with the family of chief warrant officer david williams .	O O U-ORG O O B-PER I-PER I-PER|B-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC|U-GPE I-PER|I-FAC I-PER|I-FAC|U-FAC I-PER|I-FAC|U-PER I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC I-PER|I-FAC|B-PER I-PER|I-FAC|I-PER I-PER|I-FAC|I-PER I-PER|I-FAC|I-PER|B-PER|B-PER I-PER|I-FAC|I-PER|I-PER|I-PER I-PER|I-FAC|I-PER|I-PER|L-PER I-PER|I-FAC|I-PER|I-PER L-PER|L-FAC|L-PER|L-PER O
+for them , jamie , begin what we just heard about the knife at his throat , they must be incredibly relieved .	O U-PER O U-PER O O O U-ORG O O O B-WEA L-WEA O U-PER O O U-PER O O O O O
+reporter : you know , judy , they have been learning more and more as the day goes on .	O O U-PER O O U-PER O U-PER O O O O O O O O O O O O
+the focus is clearly not on their treatment or their capture but their freedom .	O O O O O O U-PER O O U-PER O O U-PER O O
+i was on the phone with michelle williams yesterday , when she saw those first pictures on cnn of her husband , and she sleeked with delight .	U-PER O O O O O B-PER L-PER O O O U-PER O O O O O U-ORG O B-PER|U-PER L-PER O O U-PER O O O O
+for three weeks she ' s watched and waited for some news .	O O O U-PER O O O O O O O O O
+the only other pictures was his abandoned helicopter .	O O O O O B-VEH|U-PER I-VEH L-VEH O
+she knew instantly when she saw it , because of the 1st cavalry emblem and special markings it was his .	U-PER O O O U-PER O U-VEH O O O O B-ORG L-ORG O O O O U-VEH O U-PER O
+it ' s been a long three weeks .	O O O O O O O O O
+today is date she was waiting for .	O O O U-PER O O O O
+ihood a chance to spend some time with her yesterday .	O O O O O O O O U-PER O O
+this morning on " american morning " she told us about what her reaction was when she saw those first pictures of her husband free .	O O O O O O O U-PER O U-ORG O O U-PER O O O U-PER O O O O O B-PER|U-PER L-PER O O
+i was so happy .	U-PER O O O O
+he - - i knew i never lost hope that he was alive and just seeing him and being able to see his eyes and his reaction to his rescue just took a huge load off my shoulders .	U-PER O O U-PER O U-PER O O O O U-PER O O O O O U-PER O O O O O U-PER O O U-PER O O U-PER O O O O O O O U-PER O O
+reporter : incredible support from military spouses , but this is a true love story .	O O O O O B-PER|U-ORG L-PER O O O O O O O O O
+the two met , michelle and david in flight school .	B-PER L-PER O O U-PER O U-PER O B-ORG L-ORG O
+they have been at ft . hood for a short time .	U-PER O O O B-FAC I-FAC L-FAC O O O O O
+both are pilots .	U-PER O U-PER O
+michelle is	U-PER O
+2003 - 04 - 14 13 : 31 : 55	O O O O O O O O O O
+good evening .	O O O
+coalition forces in baghdad have arrested the palestinian terrorist who led the hijacking of the italian cruise ship the achille lauro in 1985 . during that hijacking the terrorists shot and killed a disabled american , leon klinghoffer , as he sat in his wheelchair .	B-PER|U-GPE I-PER I-PER L-PER|U-GPE O O B-PER I-PER|U-GPE I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER|B-VEH I-PER|I-VEH|U-GPE I-PER|I-VEH I-PER|L-VEH I-PER|B-VEH I-PER|I-VEH I-PER|L-VEH I-PER L-PER O O O O B-PER L-PER O O O B-PER I-PER L-PER O B-PER L-PER O O U-PER O O B-VEH|U-PER L-VEH O
+they threw his body overboard .	U-PER O B-PER|U-PER L-PER O O
+national security correspondent david ensor joins us live from washington .	B-PER|B-PER I-PER|I-PER I-PER|L-PER I-PER L-PER O U-PER O O U-GPE O
+david ?	U-PER O
+2003 - 04 - 15 18 : 07 : 08	O O O O O O O O O O
+breaking news out of long beach , a situation with a standoff involving a 2 - year - old and a man with a gun , this one having a peaceful ending .	O O O O B-GPE L-GPE O O O O O O O B-PER I-PER I-PER I-PER I-PER L-PER O B-PER I-PER I-PER I-PER|B-WEA L-PER|L-WEA O O O O O O O O
+this is near the long beach airport and involved a city bus .	O O O B-FAC I-FAC I-FAC L-FAC O O B-VEH I-VEH|U-GPE L-VEH O
+a man who had assault , he actually had assault with a deadly weapon , this is pictures .	B-PER I-PER I-PER|U-PER I-PER L-PER O U-PER O O O O B-WEA I-WEA L-WEA O O O O O
+look at that .	O O O O
+man spread eagle with a two - year - old child .	B-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O
+the officer is going to go in and swoop her away .	B-PER L-PER O O O O O O O U-PER O O
+as we understand it , the man had the child .	O U-PER O O O B-PER L-PER O B-PER L-PER O
+it was inside of the city bus .	O O O O B-VEH I-VEH|U-GPE L-VEH O
+police surrounded this bus near the airport with guns drawn .	U-PER O B-VEH L-VEH O B-FAC L-FAC O U-WEA O O
+the man came out and did the spread eagle like that , just as he did that , that ' s when you saw the child just walking just a few feet away from him but the officers were able to get the child away .	B-PER L-PER O O O O O O O O O O O O U-PER O O O O O O O U-PER O B-PER L-PER O O O O O O O O U-PER O B-PER L-PER O O O O B-PER L-PER O O
+they handcuffed the man and they took him into custody .	U-PER O B-PER L-PER O U-PER O U-PER O O O
+that was after he had actually barricaded himself inside that bus with the child .	O O O U-PER O O O U-PER O B-VEH L-VEH O B-PER L-PER O
+so that one coming to a peaceful ending , what could have been a very gruesome situation involving that 2 - year - old child in southern california .	O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER I-PER I-PER L-PER O B-LOC L-LOC O
+that one is over in long beach .	O O O O O B-GPE L-GPE O
+2003 - 04 - 21 11 : 21 : 30	O O O O O O O O O O
+stocks sold off on wall street today , ending a two - session rally .	O O O O O O O O O O O O O O O
+one catalyst rose to the highest level in more then a year .	O O O O O O O O O O O O O
+the dow jones industrial average down 75 . 62 . the nasdaq lost almost nine .	O O O O O O O O O O O O O O O O
+the s & p 500 down almost eight .	O O O O O O O O O
+the 11th executive of health south charged with two counts of bank fraud .	B-PER I-PER I-PER I-PER I-PER|B-ORG L-PER|L-ORG O O O O O U-ORG O O
+the former chief financial officer became the 50th execute anybody corporate america to be charged since enron ' s collapse .	B-PER I-PER I-PER I-PER L-PER O B-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-ORG I-PER I-PER L-PER O
+seven enron executives have also been charged .	B-PER I-PER|U-ORG L-PER O O O O O
+507 days since enron filed for bankruptcy .	O O O U-ORG O O O O
+the se kre held a closed door meeting on the settlement over conflict of interest in stock research .	B-ORG I-ORG L-ORG O O O O O O O O O O O O O O O O
+sources tell us a final deal will be announced monday in washington .	U-PER O U-ORG O O O O O O O O U-GPE O
+regulators and research firms promise that the $ 1 . 5 billion settlement would be finalized two months ago .	U-PER O B-ORG L-ORG O O O O O O O O O O O O O O O O
+no settlement in the dixie chicks dispute .	O O O O B-ORG L-ORG O O
+the singers fighting back now about the criticism of their remarks against president bush .	B-PER L-PER O O O O O O O U-PER O O B-PER|U-PER L-PER O
+and the material girl , she ' s fighting her own past .	O B-PER I-PER L-PER O U-PER O O O U-PER O O O
+criticizing americans for values she once espoused .	O U-GPE O O U-PER O O O
+bill tucker has the story .	B-PER L-PER O O O O
+2003 - 04 - 24 18 : 58 : 53	O O O O O O O O O O
+another story in the 1 : 00 p . m . hour in canada .	O O O O O O O O O O O O O U-GPE O
+the top story there today , the world health organization announced it is lifting its advisory against travel to toronto because of fear of sars .	O O O U-GPE O O B-ORG I-ORG I-ORG L-ORG O U-ORG O O U-ORG O O O O U-GPE O O O O O O
+it ' s been 20 days since the last cases of locally transmitted sars in toronto .	O O O O O O O O O O O O O O O U-GPE O
+and there have been no new confirmed cases of sars exported out of toronto .	O O O O O O O O O O O O O U-GPE O
+the who says sars advisories against travel to hong kong , beijing and the chinese provences will remain in effect .	B-ORG L-ORG O O O O O O B-GPE L-GPE O U-GPE O B-GPE I-GPE|U-GPE L-GPE O O O O O
+china has more sars cases than any country in the world .	U-GPE O O O O O B-GPE I-GPE I-GPE I-GPE|B-LOC L-GPE|L-LOC O
+3303 by today ' s count .	O O O O O O O
+that ' s more than twice as many as hong kong which ranks second .	O O O O O O O O O B-GPE L-GPE U-GPE O O O
+2003 - 04 - 29 20 : 30 : 28	O O O O O O O O O O
+it ' s wednesday , april 30 , 2003 . hello from washington .	O O O O O O O O O O O O U-GPE O
+i ' m wolf blitzer reporting .	U-PER O O B-PER L-PER O O
+we are following several major developments right now .	U-ORG O O O O O O O O
+that was then , this is now , 20 years after meeting saddam hussein in baghdad , defense secretary donald rumsfeld is back in the iraqi capital with victorious u . s . troops .	O O O O O O O O O O O O B-PER L-PER O U-GPE O B-PER|B-PER I-PER|L-PER I-PER L-PER O O O B-GPE I-GPE|U-GPE L-GPE O B-PER I-PER|B-GPE I-PER|I-GPE I-PER|L-GPE I-PER L-PER O
+and you ' re looking at a live picture from the " uss abraham lincoln " on its way back from war .	O U-PER O O O O O O O O B-VEH I-VEH I-VEH I-VEH L-VEH O O U-VEH O O O O O
+from its flight deck president bush will make a major announcement to the american people tomorrow night on the end of major combat in iraq .	O B-VEH|U-VEH I-VEH L-VEH B-PER|U-PER L-PER O O O O O O B-GPE I-GPE|U-GPE L-GPE O O O O O O O O O U-GPE O
+right now we ' re also waiting to hear from the president at the white house .	O O U-ORG O O O O O O O B-PER L-PER O B-FAC I-FAC L-FAC O
+we ' ll bring you his comments as soon as we get them and we ' ll get to all of that shortly , but first .	U-ORG O O O U-PER U-PER O O O O U-ORG O O O U-ORG O O O O O O O O O O O O
+a move by the president today designed to save children ' s lives and among his guests in the rose garden , elizabeth smart .	O O O B-PER L-PER O O O O U-PER O O O O O B-PER|U-PER I-PER I-PER I-PER|B-LOC I-PER|I-LOC L-PER|L-LOC O B-PER L-PER O
+here ' s cnn ' s justice correspondent kelli arena .	O O O B-PER|U-ORG I-PER I-PER I-PER L-PER B-PER L-PER O
+she is joining us live .	U-PER O O U-ORG O O
+2003 - 04 - 30 17 : 08 : 22	O O O O O O O O O O
+welcome back .	O O O
+check in with jack cafferty as we look at the fountains outside of time answer life .	O O O B-PER L-PER O U-ORG O O O O O O O O O O
+we were talking about the road map to middle east peace and ran a footage about the chicken and these dogs .	U-ORG O O O O O O O B-GPE L-GPE O O O O O O O O O O O O
+there is the picture .	O O O O O
+the golden real estate treever on the left had a litter of pups and the chicken got in the pen , a real story , they ' re all hanging out .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+it looks as though the puppies in one of the shots is trying to get lunch from the chicken .	O O O O O O O O O O O O O O O O O O O O
+that is what they ' re doing , jack !	O O O O O O O O U-PER O
+we got a lot of e - mails to us on the east coast who don ' t know about the farm .	U-ORG O O O O O O O O U-ORG O B-LOC I-LOC L-LOC U-PER O O O O O B-FAC L-FAC O
+the answer is apparently , you can get .	O O O O O U-PER O O O
+you cannot nurse a chicken .	U-PER O O O O O
+there you go .	O U-PER O O
+the question should be what is the chicken getting out of this .	O O O O O O O O O O O O O
+i don ' t want to go there .	U-PER O O O O O O O O
+in new jersey a buyology teacher , i can tell you without hesitation , a chicken cannot be nursed .	O B-GPE L-GPE B-PER I-PER L-PER O U-PER O O U-PER O O O O O O O O O
+only mammals that have distinct biological feature .	O O O O O O O O
+chickens are also the void of hen ' s teeth , much to the satisfaction of those little puppies .	O O O O O O O O O O O O O O O O O O O O
+you don ' t - - city people ?	U-PER O O O O O B-PER|U-GPE L-PER O
+our viewers are nice .	B-PER|U-ORG L-PER O O O
+not nasty .	O O O
+here is the explanation .	O O O O O
+this is the real deal .	O O O O O O
+any farm kid knows that certain animals cannot see for a few days after they ' re born , including puppies .	B-PER I-PER|U-FAC L-PER O O O O O O O O O O O O O O O O O O O
+the puppies try to nurse the chicken hen .	O O O O O O O O O
+they do that by feel , not sight .	O O O O O O O O O
+a chicken hen is warm and comfortable , so they try their luck and eventually feel their way back to the mother dog where things work out better for them .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+i ' m so glad that ' s cleared up .	U-PER O O O O O O O O O O
+we ' ll get back to the	U-ORG O O O O O O
+2003 - 05 - 01 09 : 02 : 44	O O O O O O O O O O
+letdownch * * at the helm came in on final to the " uss abraham lincoln " and landed hitting the fore wire , a safe trap .	O O O O O O O O O O O B-VEH I-VEH I-VEH I-VEH L-VEH O O O O O O O O O O O O
+one of 12 , 675 takeoffs and traps that have taken place aboard the " uss abraham lincoln " during this 10 month long deployment , the longest deployment of an aircraft carrier in the u . s . since the vietnam era .	O O O O O O O O O O O O O B-VEH I-VEH I-VEH I-VEH L-VEH O O O O O O O O O O O O B-VEH I-VEH|U-VEH I-VEH I-VEH I-VEH|B-GPE I-VEH|I-GPE I-VEH|I-GPE L-VEH|L-GPE O O O U-GPE O O
+after the president came aboard , he then spent a considerable amount of time talking to many of the young men and women on the flight deck , taking photographs with them , still wearing his flight suit throughout much of that period , talking to them and again this evening , he will be issuing a major address to the american people reguarding the end of major combat operation .	O B-PER L-PER O O O U-PER O O O O O O O O O B-PER|B-PER|B-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER|B-VEH I-PER|I-PER|I-PER|I-VEH L-PER|L-PER|L-PER|L-VEH O O O O U-PER O O O U-PER O O O O O O O O O O U-PER O O O O O U-PER O O O O O O O B-GPE I-GPE|U-GPE L-GPE O O O O O O O O
+white house aides calling it an important moment .	B-PER|B-ORG I-PER|L-ORG L-PER O O O O O O
+he - - after landing and taking a brief tour of part of the ship , he also went out on to the flight deck and observed some of the flight operations of some of the f - 18 aircraft that are now leaving these aircraft , headed to lamore after this 10 - month long deploy am .	U-PER O O O O O O O O O O B-VEH I-VEH I-VEH|B-VEH L-VEH|L-VEH O U-PER O O O O O B-VEH I-VEH L-VEH O O O O O O O O B-VEH I-VEH I-VEH|B-VEH I-VEH|I-VEH|B-VEH I-VEH|I-VEH|I-VEH I-VEH|I-VEH|L-VEH I-VEH|I-VEH I-VEH|I-VEH|U-VEH I-VEH|I-VEH I-VEH|I-VEH L-VEH|L-VEH B-VEH L-VEH O O O U-GPE O O O O O O O O O
+2003 - 05 - 01 17 : 07 : 02	O O O O O O O O O O
+welcome to the second hour .	O O O O O O
+good morning to you .	O O O U-PER O
+a new al qaeda videotape , no doubt chilling to the families of the victims .	O O B-ORG L-ORG O O O O O O B-PER I-PER I-PER I-PER|B-PER L-PER|L-PER O
+two of the four pilots who took control of the planes on 9 / 11 attended a wedding party in hamburg , germany , four years ago 1999 this is .	B-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|U-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|B-VEH I-PER|I-PER|L-VEH I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O O O O B-GPE I-GPE L-GPE|U-GPE O O O O O O O O
+another one of the pilots , mohammed atta , also believed to be present at this meeting .	B-PER I-PER I-PER I-PER|B-PER L-PER|L-PER O B-PER L-PER O O O O O O O O O O
+throughout the morning , we ' re looking at a remarkable tape right now .	O O O O U-PER O O O O O O O O O O
+what ' s believed to be the terror cell responsible for 9 / 11 .	U-ORG O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O
+many members on that tape working together through a cell in germany known as the hamburg cell seen in the same room at the same time .	B-PER I-PER I-PER I-PER L-PER O O O B-ORG I-ORG I-ORG I-ORG|U-GPE I-ORG I-ORG I-ORG|B-ORG I-ORG|I-ORG L-ORG|L-ORG O O B-FAC I-FAC L-FAC O O O O O
+2003 - 05 - 07 08 : 08 : 17	O O O O O O O O O O
+as we told you at the top of this newscast , an oklahoma judge has ruled that terry nichols will indeed stand trial in that state court on 160 counts of first - degree murder .	O U-ORG O U-PER O O O O O O O B-PER I-PER|U-GPE L-PER O O O B-PER L-PER O O O O O B-ORG I-ORG|U-GPE L-ORG O O O O O O O O O
+the oklahoma city bombing conspirator is already serving a life term in federal prison .	B-PER I-PER|B-GPE I-PER|L-GPE I-PER L-PER O O O O O O O B-FAC L-FAC O
+state proceedings could bring the death penalty if nichols is convicted .	U-GPE O O O O O O O U-PER O O O
+a trial date was not immediately set by the judge whose decision came as prosecutes were still presenting evidence .	O O O O O O O O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER L-PER O
+a texas woman is in jail this morning accused of killing her two sons and severely beating another the day before mother ' s day .	B-PER I-PER|U-GPE L-PER O O U-FAC O O O O O B-PER|U-PER I-PER L-PER O O O U-PER O O O O O O O O
+yesterday a silent dee ana laney waited as the judge read the charges against her .	O B-PER I-PER I-PER I-PER L-PER O O B-PER L-PER O O O O U-PER O
+capital murder and aggravated assault .	O O O O O O
+one of the first people to arrive at the crime scene .	B-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O
+judge james marin .	B-PER|U-PER I-PER L-PER O
+thanks very much .	O O O O
+why were you there so quickly ?	O O U-PER O O O O
+i wasn ' t really there that quickly .	U-PER O O O O O O O O
+i actually responded a few hours after the sheriff ' s department did .	U-PER O O O O O O B-ORG|B-PER I-ORG|L-PER I-ORG I-ORG L-ORG O O
+the reason you went was ?	O O U-PER O O O
+well , being the justice of the peace we are the ones that hold the inquest on the death and they were required to call us to the scene .	O O O B-PER I-PER I-PER I-PER L-PER U-PER O B-PER L-PER U-PER O O O O O O O U-ORG O O O O U-PER O O O O
+what did you see when you got there ?	O O U-PER O O U-PER O O O
+well , to be honest with you , i saw a pretty gruesome sight and i think it ' s been talked about quite a bit the last few days and if anybody didn ' t have to be there to see it , they were lucky not to have to be there .	O O O O O O U-PER O U-PER O O O O O O U-PER O O O O O O O O O O O O O O O O U-PER O O O O O O O O O O O U-PER O O O O O O O O O
+it was a horrific sight , you don ' t have to go into details , obviously , we can only imagine how bad it might have been .	O O O O O O U-PER O O O O O O O O O O O U-PER O O O O O O O O O O
+it probably was , indeed , based on your eyewitness accounts .	O O O O O O O O U-PER U-PER O O
+what happened ?	O O O
+they were collecting evidence as you were there , the law enforcement authorities ?	U-PER O O O O U-PER O O O B-PER I-PER|B-ORG I-PER|L-ORG L-PER O
+they had been collecting their evidence and , of course , when i got there they showed me the location and , of course , then having to do	U-PER O O O U-PER O O O O O O O U-PER O O U-PER O U-PER O O O O O O O O O O O
+2003 - 05 - 13 17 : 33 : 11	O O O O O O O O O O
+in today ' s daily news , a 60 - year - old woman acknowledges she was the 19 - year - old white house intern who slept with jfk .	O O O O O O O B-PER I-PER I-PER I-PER I-PER I-PER L-PER O U-PER O B-PER I-PER I-PER I-PER I-PER I-PER I-PER|B-ORG I-PER|L-ORG I-PER I-PER|U-PER I-PER I-PER L-PER|U-PER O
+she told the papers , " i am the mimi . "	U-PER O B-ORG L-ORG O O U-PER O B-PER L-PER O O
+i want to take this opportunity to stand behind the mimi and proclaim my solidarity .	U-PER O O O O O O O O B-PER L-PER O O U-PER O O
+i know where you ' ve been because i too have been there myself .	U-PER O O U-PER O O O O U-PER O O O O U-PER O
+that ' s right , i too slept with jfk .	O O O O O U-PER O O O U-PER O
+i am the anderson .	U-PER O B-PER L-PER O
+i was born four years too late to have slept with jfk ?	U-PER O O O O O O O O O O U-PER O
+technically correct but why quibble over details ?	O O O O O O O O
+isn ' t it possible deep down , that you also slept with jfk ?	O O O O O O O O O U-PER O O O U-PER O
+who , me ?	U-PER O U-PER O
+no , i couldn ' t have , you protest .	O O U-PER O O O O O U-PER O O
+believe whatever you have to .	O O U-PER O O O
+i am not willing to live that lie any longer .	U-PER O O O O O O O O O O
+the truth about our camelot obsessed society is each of us in our own way has slept with the jfk .	O O O B-GPE|U-GPE I-GPE I-GPE L-GPE O B-GPE I-GPE L-GPE O B-GPE|U-GPE L-GPE O O O O B-PER L-PER O
+only once we admit this to ourselves individually and as a nation can the true healing begin .	O O U-GPE O O O U-GPE O O O B-GPE L-GPE O O O O O O
+a thought to end on tonight .	O O O O O O O
+thanks for being with us tonight .	O O O O U-ORG O O
+stay with cnn .	O O U-ORG O
+" larry king live " is next .	O O O O O O O O
+2003 - 05 - 15 21 : 03 : 09	O O O O O O O O O O
+president bush head to the g - 8 summit in france on friday with victory over saddam hussein and in his pocket and a soaring approval rating by the american public , but do europeans share the same enthusiasm for the president ?	B-PER|U-PER L-PER O O B-GPE I-GPE I-GPE L-GPE O O U-GPE O O O O O B-PER L-PER O O U-PER O O O O O O O B-GPE I-GPE|U-GPE L-GPE O O O U-GPE O O O O O B-PER L-PER O
+our senior political analyst bill schneider reports on the results of a brand new poll .	B-PER|B-PER|U-ORG I-PER|I-PER I-PER|I-PER I-PER|L-PER I-PER L-PER O O O O O O O O O O
+2003 - 05 - 28 17 : 28 : 27	O O O O O O O O O O
+if you ' re just starting your week , good morning , once again .	O U-PER O O O O U-PER O O O O O O O O
+7 : 30 up and down the east coast .	O O O O O O B-LOC I-LOC L-LOC O
+welcome back to " american morning . "	O O O O O O O O
+overcaes - - overseas , president bush will leave france in a few hour ' s time after a second meeting face - to - face in private with french president jacque chirac today .	O O O O O B-PER|U-PER L-PER O O U-GPE O O O O O O O O O O O O O O O O O O O B-PER|B-PER|U-GPE I-PER|L-PER I-PER L-PER O O
+the president called that meeting helpful and said the disagreement between the united states and france over iraq does not mean the two countries have to be disagreeable .	B-PER L-PER O O O O O O O O O B-GPE I-GPE L-GPE O U-GPE O U-GPE O O O B-GPE I-GPE L-GPE O O O O O
+mr . bush travels next to egypt and he will enter middle east peace talks at middle east .	B-PER|U-PER I-PER L-PER O O O U-GPE O U-PER O O B-GPE L-GPE O O O B-GPE L-GPE O
+he says he will spend as much time as necessary to achieve peace between the israelis and palestinians .	U-PER O U-PER O O O O O O O O O O O B-GPE L-GPE O U-GPE O
+a key trip continues for the week .	O O O O O O O O
+want to say hello again to daryn right ?	O O O O O O B-PER L-PER O
+2003 - 06 - 02 07 : 38 : 23	O O O O O O O O O O
+five motions are being heard today in the case of lee boyd malvo , the teenage sniper suspect .	O O O O O O O O O O B-PER I-PER L-PER O B-PER I-PER I-PER|U-PER L-PER O
+one for a change of venue .	O O O O O O O
+defense attorneys argue that there has been so much pretrial publicity , including an alleged confession from malvo , that this has tainted the jury pool .	B-PER L-PER O O O O O O O O O O O O O O O U-PER O O O O O B-PER I-PER|U-PER L-PER O
+their more intriguing argument is that one of the charges against malvo is under virginia ' s anti - terrorism statute and they argue that every resident of fairfax county is potentially a member of the victim ' s class .	U-PER O O O O O O O O O O U-PER O O U-GPE O O O O O O O U-PER O O B-PER I-PER I-PER I-PER|B-GPE L-PER|L-GPE O O B-PER I-PER I-PER I-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O
+and therefore , disqualified from serving as a juror .	O O O O O O O B-PER L-PER O
+the prosecutor will argue against this motion .	B-PER L-PER O O O O O O
+he calls it factually pro pos truss .	U-PER O O O O O O O
+if history is any guide , this motion will have a tough time .	O O O O O O O O O O O O O O
+no case has been moved out of fairfax county since 1974 . there also is a motion to dismiss this case .	O O O O O O O B-GPE L-GPE O O O O O O O O O O O O O
+defense attorneys argue that an individual cannot be charged under federal law and then state law for the same act .	B-PER L-PER O O B-PER L-PER O O O O O O O O U-GPE O O O O O O
+prosecutors again will argue against the motion .	U-PER O O O O O O O
+three other motions as well .	O O O O O O
+one of those for a handwriting expert , the other motions relate to getting background information relating to ballistics testing and dna testing .	O O O O B-PER I-PER L-PER O O O O O O O O O O O O O O O O O
+malvo on trial here in fairfax county for the murder of linda franklin , the fbi analyst who was gunned down in a home depot parking lot .	U-PER O O B-GPE I-GPE I-GPE|B-GPE L-GPE|L-GPE O O O O B-PER L-PER O B-PER I-PER|U-ORG L-PER U-PER O O O O B-FAC I-FAC|B-ORG I-FAC|L-ORG I-FAC L-FAC O
+that ' s just one of the ten sniper shootings here in the greater washington area .	O O O O O O O O U-PER O B-GPE I-GPE I-GPE|B-LOC I-GPE|I-LOC I-GPE|I-LOC|U-GPE L-GPE|L-LOC O
+today ' s motions hearing just part of the preliminary skirmishing .	O O O O O O O O O O O O
+the actual trial will be getting under way this fall .	O O O O O O O O O O O
+jeanne meserve , cnn , fairfax county , virginia .	B-PER L-PER O U-ORG O B-GPE I-GPE I-GPE L-GPE|U-GPE O
+2003 - 06 - 02 10 : 58 : 13	O O O O O O O O O O
+martha stewart isn ' t the only corporate figurehead in the news today .	B-PER L-PER O O O B-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O
+the jury has handed down a $ 30 million , a grand rapids jury saying taco bell has to pay the true creators of the chihuahua mass cot .	B-PER L-PER O O O O O O O O B-PER I-PER|B-GPE I-PER|L-GPE L-PER O B-ORG L-ORG O O O B-PER I-PER I-PER I-PER I-PER I-PER I-PER L-PER O
+two men claimed their idea originated , and proved i am in the wrong business .	B-PER L-PER O U-PER O O O O O U-PER O O B-ORG I-ORG L-ORG O
+taco ball is appealing .	B-ORG L-ORG O O O
+joins me is tom rinks with his attorney john doza .	O U-PER O B-PER L-PER O B-PER|U-PER L-PER B-PER L-PER O
+tom , you ' ve got to be happy with the settlement .	U-PER O U-PER O O O O O O O O O O
+i know they ' re going to appeal , but first et tell my how you calm up with the chihuahua character ?	U-PER O U-ORG O O O O O O O O O O U-PER O U-PER O O O O O O O
+joe and myself , he ' s the partner , we were looking to design some licenses to put on some t - shirts , and at the time big dogs were big , and all the mean dogs , and no fear was a big hit , and we thought it was time for a bit of a change for the 18 - 24 crowd .	U-PER O U-PER O U-PER O O B-PER L-PER O U-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O U-PER O O O O O O O O O O O B-PER I-PER I-PER I-PER L-PER O
+so we actually took the opposite of all that , and looked for the smallers , weakest , most timid animal , and tried to make him cool , tried to make him big .	O U-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+and we knew if he gave him some spunk , everybody would root for him .	O U-PER O O U-PER O O O O O U-PER O O O O O
+how did the taco bell folks run into you ?	O O B-ORG I-ORG|B-ORG I-ORG|L-ORG L-ORG O O U-PER O
+they actually came to us at a licensing show .	U-ORG O O O U-PER O O O O O
+we had been licensing to a bunch of different manufacturers , and in 1996 we were at a show in new york city where nick loada and universal studios , and taco bell walked up to us and said they were looking for a mass cot for their brand and this would be perfect .	U-PER O O O O B-ORG I-ORG I-ORG I-ORG L-ORG O O O O U-PER O O O O O B-GPE I-GPE L-GPE U-GPE B-PER L-PER O B-ORG L-ORG O O B-ORG L-ORG O O O U-PER O O U-ORG O O O O O O O U-ORG O O O O O O O
+that started a year relationship we had with them .	O O O O O U-PER O O U-ORG O
+and it went on for a year , and you thought it didn ' t pan out and then you pick up a trade paper and read they ' re going ahead with it ?	O O O O O O O O O U-PER O O O O O O O O O U-PER O O O O O O O U-ORG O O O O O O O
+after we finalized all the commercials , and actually done the campaign for them , they hired a new ad agency , and telephone calls just started staggering off .	O U-PER O O O O O O O O O O O U-ORG O U-ORG O B-ORG I-ORG I-ORG L-ORG O O O O O O O O O
+then they stopped coming , and we ahead imp the ads , and they were exactly what we had presented for over a year .	O U-ORG O O O O U-PER O O O O O O O O O O U-PER O O O O O O O
+when you first heard that , or read that , did you just go ballistic ?	O U-PER O O O O O O O O O U-PER O O O O
+i mean , no offense , but it was you and one other guy who created this thing .	U-PER O O O O O O O O U-PER O B-PER I-PER L-PER U-PER O O O O
+they ' re a huge , huge corporation .	U-ORG O O B-ORG I-ORG I-ORG I-ORG L-ORG O
+yeah , it was devastating , to say the least , but we really didn ' t know	O O O O O O O O O O O O U-PER O O O O O
+2003 - 06 - 05 20 : 04 : 06	O O O O O O O O O O
+it is 11 : 00 a . m . on the east coast .	O O O O O O O O O O B-LOC I-LOC L-LOC O
+from the cnn center in atlanta , i ' m fred fred .	O B-FAC I-FAC|U-ORG I-FAC I-FAC L-FAC|U-GPE O U-PER O O B-PER L-PER O
+a first here on " cnn live today , " a spiraling cycle of violence threatening the latest middle east peace efforts .	O O O O O O O O O O O O O O O O O O B-GPE L-GPE O O O
+this morning hamas vows revenge for an israeli missile attack .	O O U-ORG O O O O U-GPE U-WEA O O
+israeli hospital gun ships fired on a jeep in gaza .	B-VEH|U-GPE I-VEH I-VEH|U-WEA L-VEH O O B-VEH I-VEH I-VEH L-VEH|U-LOC O
+the strike targeted a hamas leader .	O O O B-PER I-PER|U-ORG L-PER O
+and two other people were killed including a mother and bodyguard .	O B-PER I-PER L-PER O O O B-PER L-PER O U-PER O
+mike hanna is tracking the latest developments from there .	B-PER L-PER O O O O O O U-LOC O
+he joins us live with the details .	U-PER O U-ORG O O O O O
+2003 - 06 - 10 11 : 08 : 55	O O O O O O O O O O
+good evening , everyone .	O O O U-PER O
+tonight , the middle east peace process is in danger of being swept away by violence .	O O O B-GPE L-GPE O O O O O O O O O O O O
+president bush called upon the world to stop terrorism after a suicide bomb attack on a bus in jerusalem today .	B-PER|U-PER L-PER O O B-LOC L-LOC O O O O O B-WEA L-WEA O O B-VEH L-VEH O U-GPE O O
+16 people were killed .	B-PER L-PER O O O
+at least 70 were injured .	B-PER I-PER L-PER O O O
+shortly afterward , israel killed seven people in gaza , two of them members of hamas .	O O O U-GPE O B-PER I-PER I-PER L-PER|U-LOC O B-PER I-PER I-PER|U-PER I-PER|B-PER I-PER|I-PER L-PER|L-PER|U-ORG O
+mike hanna in jerusalem , but first , going to kelly wallace in kba sda where there ' s more helicopter attacks tonight .	B-PER L-PER O U-GPE O O O O O O B-PER L-PER O B-GPE I-GPE I-GPE|U-GPE I-GPE I-GPE I-GPE I-GPE I-GPE|U-VEH I-GPE L-GPE O
+kelly ?	U-PER O
+2003 - 06 - 11 18 : 09 : 26	O O O O O O O O O O
+how about the former mayor ?	O O B-PER I-PER L-PER O
+he got married .	U-PER O O O
+what else has rudy giuliani be up to ?	O O O B-PER L-PER O O O O
+he spoke with paul paula zahn .	U-PER O O B-PER I-PER L-PER O
+it was her first night back .	O O U-PER O O O O
+here ' s a bit of what she had to say .	O O O O O O O U-PER O O O O
+he had to say to her .	U-PER O O O O U-PER O
+my focus is on re - electing president bush and dick cheney next year , the convention is going to be here in the city of new york .	U-PER O O O O O O B-PER|U-PER L-PER O B-PER L-PER O O O O O O O O O U-GPE O B-GPE I-GPE I-GPE I-GPE|B-GPE L-GPE|L-GPE O
+that ' s not the question i asked you .	O O O O O O U-PER O U-PER O
+what i ' m going to do ?	O U-PER O O O O O O
+that ' s so far in the future .	O O O O O O O O O
+would you consider a run for governor .	O U-PER O O O O U-PER O
+sure , i would consider running for public office again in a couple of years because , first of all , i enjoy public service and i enjoy campaigning .	O O U-PER O O O O O O O O O O O O O O O O O O U-PER O O O O U-PER O O O
+i was in 30 states i think last year .	U-PER O O B-GPE L-GPE U-PER O O O O
+on behal of republican candidates and i tend to do a lot of campaigning in the next year for the president .	O O O B-PER|U-ORG L-PER O U-PER O O O O O O O O O O O O B-PER L-PER O
+at some point , i ' m going to want to do it myself .	O O O O U-PER O O O O O O O O U-PER O
+speaking of the presidency , you said it would be arrogant to talk about that office when it ' s not under serious consideration .	O O O O O U-PER O O O O O O O O O O O O O O O O O O O
+is that something that you ' ve ever given a glancing thought to ?	O O O O U-PER O O O O O O O O O
+i don ' t think you do unless it ' s realistic .	U-PER O O O O U-PER O O O O O O O
+at this point , my candidate	O O O O B-PER|U-PER L-PER
+2003 - 06 - 24 07 : 33 : 51	O O O O O O O O O O
+let ' s talk about fidelity actually shifting some name brand funds into no loads .	O O U-PER O O U-ORG O O O O O O O O O O
+reporter : it means it is going to be less expensive to get into some of the mutual funds , some of the biggest , by fidelity .	O O O O O O O O O O O O O O O O O O O O O O O O O O U-ORG O
+fidelity is going to get rid of the 3 % upfront sales charge on five of its largest funds .	U-ORG O O O O O O O O O O O O O O O U-ORG O O O
+that does include the magellan fund which is its biggest .	O O O O O O O O O O O
+contra fund and low - priced stock funds charges are going to be canceled as well .	O O O O O O O O O O O O O O O O O
+magellan and new millennium are closed to new investors .	O O O O O O O B-PER L-PER O
+current investors are not going to be charge peoria police department they are trying to take advantage of investor ' s renewed interests to buy stock .	B-PER L-PER O O O O O O B-ORG|U-GPE I-ORG|U-PER L-ORG U-ORG O O O O O O U-PER O O O O O O O O
+many investors show away from funds that include a low or fee .	B-PER L-PER O O O O O O O O O O O
+that load or fee was already waived .	O O O O O O O O
+now , as far as what is going on here on wall street .	O O O O O O O O O O O B-FAC L-FAC O
+some renewed interest in buying this afternoon .	O O O O O O O O
+stocks modestly higher .	O O O O
+of course everyone is more or less waiting for the fed decision on interest rates .	O O U-PER O O O O O O O O O O O O O
+we ' re going to get that tomorrow .	U-PER O O O O O O O O
+wall street expects the central bank to cut rates .	B-PER L-PER O B-ORG I-ORG L-ORG O O O O
+technology stocks holding near the break even line .	O O O O O O O O O
+there was a warning from chip maker advanced micro devices .	O O O O O B-ORG I-ORG I-ORG I-ORG L-ORG O
+the company says it ' s going to miss sales expectations so that is reining in some tech buying .	B-ORG L-ORG O U-ORG O O O O O O O O O O O O O O O O
+nasdaq sup just slightly .	O O O O O
+that ' s the very latest news from wall street .	O O O O O O O O O O O
+cnn " live from " continues right after this break .	U-ORG O O O O O O O O O O
+2003 - 06 - 24 14 : 33 : 07	O O O O O O O O O O
+going to use it in those patients * * his dandruff shampoo wasn ' t tough enough for black , so i bought him maximum strength selsun blue .	O O O O O B-PER L-PER O O U-PER O O O O O O O O O O O U-PER O U-PER O O O O O
+it ' s doctor recommended and works fast .	O O O U-PER O O O O O
+selsun blue .	O O O
+that have riveted the nation .	O O O B-GPE L-GPE O
+first , a big hearing tomorrow in the scott peterson case .	O O O O O O O O B-PER L-PER O O
+punishing prosecutors .	O U-PER O
+it could all be up for grabs .	O O O O O O O O
+then the texas woman accused of hitting a man with her car , driving home about him stuck to her windshield and leaving him there to die .	O B-PER I-PER|U-GPE I-PER I-PER I-PER I-PER I-PER|B-PER I-PER|L-PER I-PER I-PER|B-VEH|U-PER I-PER|L-VEH I-PER I-PER I-PER|U-FAC I-PER I-PER|U-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER L-PER O
+and andrew luster , grandson of cosmetic legend max factor .	O B-PER L-PER O B-PER I-PER I-PER|B-PER|B-PER I-PER|I-PER|L-PER I-PER|I-PER L-PER|L-PER O
+what drove him to become a serial rapist and to jump bail in the middle of the trial .	O O U-PER O O B-PER I-PER L-PER O O O O O O O O O O O
+only to be captured in mexico by a bounter hunter after five months on the roun .	O O O O O U-GPE O B-PER I-PER L-PER O O O O O O O
+that ' s all next on " larry king live . "	O O O O O O O B-ORG I-ORG L-ORG O O
+we begin first with the extraordinary case of andrew luster .	U-ORG O O O O O O O B-PER L-PER O
+and the guests are here in los angeles , roger john diamond .	O B-PER L-PER O B-GPE I-GPE I-GPE|B-GPE L-GPE|L-GPE O B-PER I-PER L-PER O
+he is andrew luster ' s attorney .	U-PER O B-PER|B-PER I-PER|L-PER I-PER I-PER L-PER O
+in chicago , the well known bill curtis .	O U-GPE O B-PER I-PER I-PER I-PER L-PER O
+the special report will air tonight at 10 : 00 eastern , a twisted mind , the andrew luster story on a & e produced by cbs news productions for a & e and bill curtis is the producer and director .	O O O O O O O O O O O O O O O O O B-PER L-PER O O O O O O O B-ORG I-ORG L-ORG O O O O O B-PER L-PER O B-PER|B-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O
+in new york is nancy grace .	O B-GPE L-GPE O B-PER L-PER O
+a former prosecutor .	B-PER I-PER L-PER O
+in atlanta chris picksly , defense attorney .	O U-GPE B-PER L-PER O B-PER L-PER O
+and in new york , dr . michael wellner who published the research study on drug facilitated rapists .	O O B-GPE L-GPE O B-PER|U-PER I-PER I-PER L-PER U-PER O O O O O B-PER I-PER L-PER O
+he ' s a professor of psychiatry at nyu , chairman of the forensic panel and fellow of the depravity scale that considers sensational crimes for sentencing .	U-PER O O B-PER I-PER I-PER I-PER I-PER L-PER|U-ORG O B-PER I-PER I-PER|B-ORG I-PER|I-ORG L-PER|L-ORG O B-PER I-PER I-PER I-PER L-PER O O O O O O O
+he was arrested in june after he he - - jumped trial on bail .	U-PER O O O O O O U-PER|U-PER O O O O O O O
+2003 - 06 - 25 21 : 09 : 55	O O O O O O O O O O
+They Refuse to Reason	O O O O
+I wish I could have been at a Pub , or wherever these people convene , to see the reactions from all the Britons who read the Telegraph this morning ( emphasis added ) : Britain ' s gun laws are aimed at the wrong target , curbing and criminalising legal ownership while failing to tackle huge rises in shooting offences over the past few years , according to an international firearms legislation expert .	U-PER O U-PER O O O O B-FAC L-FAC O O B-FAC I-FAC|B-PER I-FAC|L-PER L-FAC O O O O O O B-PER I-PER I-PER I-PER|U-PER I-PER I-PER|B-ORG I-PER|L-ORG I-PER L-PER O O O O O U-GPE O O U-WEA O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER I-PER I-PER|U-WEA I-PER L-PER O
+Prof Gary Mauser said that Britain was making the same mistake as Canada and Australia in focusing on legal owners - a section of the law - abiding community where gun crimes , such as the Dunblane massacre , were aberrations .	B-PER|U-PER I-PER L-PER O O U-GPE O O O O O O U-GPE O U-GPE O O O B-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER|B-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER|U-PER I-PER|I-PER|I-PER|U-WEA I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER|U-GPE I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER L-PER|L-PER|L-PER O
+The Home Office and police chiefs should instead tackle the possession of guns in criminal hands , said Prof Mauser , a member of the independent Fraser Institute in Canada .	B-ORG I-ORG L-ORG O B-PER|U-ORG L-PER O O O O O O U-WEA O U-PER O O O B-PER|U-PER L-PER O B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG I-PER|I-ORG L-PER|L-ORG|U-GPE O
+He has given evidence to select committees of the House of Commons and the Canadian Senate and predicted the escalation of gun crime on Britain ' s streets .	U-PER O O O O B-PER I-PER I-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|L-ORG I-PER I-PER|B-ORG I-PER|I-ORG|U-GPE L-PER|L-ORG O O O O O U-WEA O O B-FAC|U-GPE I-FAC I-FAC L-FAC O
+His warning comes as gun crime incidents are averaging about 29 a day in England and Wales , more than twice the level of when the Labour Government came to power in 1997 .	U-PER O O O U-WEA O O O O O O O O O U-GPE O U-GPE O O O O O O O O B-ORG I-ORG L-ORG O O O O O O
+In the past two years , there have been cases of schoolchildren and a baby , killed or injured by guns .	O O O O O O O O O O O U-PER O B-PER L-PER O O O O O U-WEA O
+" I believe that factors of political correctness are at work , " he said .	O U-PER O O O O O O O O O O O U-PER O O
+" Police crackdowns , Home Office initiatives and over - regulation of legally held weapons create froth and they may even fool the police themselves into believing they are doing something about gun crime . "	O U-ORG O O B-ORG L-ORG O O O O O O B-WEA I-WEA L-WEA O O O O O O O B-ORG I-ORG L-ORG|U-ORG O O U-ORG O O O O U-WEA O O O
+Prof Mauser added : " The sad truth is that while the police officers are inspecting farmers ' gun cabinets to see if they comply with regulations somewhere in the UK , someone , who has not filled in a firearms certificate form , will be smuggling a gun into the country or selling one to an inner city youth . "	B-PER|U-PER L-PER O O O O O O O O O B-PER I-PER|U-ORG L-PER O O U-PER O U-WEA O O O O U-PER O O O B-LOC I-LOC I-LOC|B-GPE L-LOC|L-GPE O B-PER I-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-WEA I-PER L-PER O O O O B-WEA L-WEA O B-GPE L-GPE O O U-WEA O B-PER I-PER|B-GPE I-PER|L-GPE L-PER O O
+Recorded gun crime rose by three per cent to 10 , 590 incidents in the year to June .	O U-WEA O O O O O O O O O O O O O O O O O
+Two - thirds of gun crime takes place in London , Birmingham and Manchester .	O O O O U-WEA O O O O U-GPE O U-GPE O U-GPE O
+It doesn ' t matter to these people that crime has skyrocketed since the irrational ban on private gun possession went into effect in Great Britain .	O O O O O O B-PER L-PER O O O O O O O O O O U-WEA O O O O O B-GPE L-GPE O
+Just as long as it ' s there , they feel safe .	O O O O O O O O O U-PER O O O
+Virginia Science	O O
+Earth & Sky , a program that airs on NPR , featured a Virginia Tech chemist this morning .	O O O O O O O O O U-ORG O O B-PER I-PER|B-ORG I-PER|L-ORG L-PER O O O
+Karen Brewer is working to develop a hydrogen generation system " that ' s energy efficient , inexpensive , clean and renewable . "	B-PER L-PER O O O O O O O O O O O O O O O O O O O O O O
+Wonder what she thought of Larry Summer ' s remarks on women and science . . . .	O O U-PER O O B-PER L-PER O O O O U-PER O O O O O O
+Maybe some day we ' ll be stuck in traffic in hydrogen - powered cars .	O O O U-PER O O O O O O O B-VEH I-VEH I-VEH L-VEH O
+I wonder what the tolls on the Dulles Toll Road would be by that day ?	U-PER O O O O O B-FAC I-FAC I-FAC L-FAC O O O O O O
+New solar + new nanotechnology + new fule cell technology + new distribution technology	O O O O O O O O O O O O O O
+The components are there if we can get the power companies to quit their lobbying and opposition .	O O O O O U-PER O O B-ORG I-ORG L-ORG O O U-ORG O O O O
+States like New Jersey are putting solar on school roofs and allowing those schools to earn money even during the summer when they are closed .	B-GPE I-GPE I-GPE|B-GPE L-GPE|L-GPE O O O O U-FAC O O O B-ORG L-ORG O O O O O O O O U-ORG O O O
+Virginia is falling behind when we should be ahead with schools like Tech developing the technology .	U-GPE O O O O U-GPE O O O O B-ORG I-ORG L-ORG|U-ORG O O O O
+The hydrogen tax will pay for MagLev all over Virginia .	O O O O O O U-VEH O O U-GPE O
+Europe Changing Their Tune ?	O O O O O
+American Future has a link up to a article written in yesterdays Houston Chronicle .	O O O O O O O O O O O O B-ORG L-ORG O
+It describes how the European Governments look to be changing their tune in regards to President Bush .	O O O B-ORG I-ORG|U-GPE L-ORG O O O O U-ORG O O O O B-PER|U-PER L-PER O
+Why you ask ?	O U-PER O O
+But there is arguably more to this sea change than just a grumpy acceptance of the status quo .	O O O O O O O O O O O O O O O O O O O
+From a European perspective , three things are making it easier to warm to the Bush White House .	O O U-GPE O O O O O O O O O O O B-ORG I-ORG|U-PER I-ORG L-ORG O
+One is the death of Yasser Arafat .	O O O O O B-PER L-PER O
+No issue divides Europe and the United States more keenly than the Israeli - Palestinian dispute .	O O O U-GPE O B-GPE I-GPE L-GPE O O O O U-GPE O U-GPE O O
+For the last few years , Europeans have criticized Bush for failing to put enough pressure on Israel to get out of the occupied territories and for refusing to deal with Arafat .	O O O O O O U-GPE O O U-PER O O O O O O O U-GPE O O O O B-LOC I-LOC L-LOC O O O O O O U-PER O
+That another reason why I respect Bush so much , his refusal to acknowledge that windbag terrorist Arafat .	O O O O U-PER O U-PER O O O U-PER O O O B-PER I-PER L-PER U-PER O
+May he rot in hell .	O U-PER O O U-LOC O
+But since Arafat ' s death , Europeans and Americans have been able to find common ground : supporting Ariel Sharon ' s withdrawal from Gaza , putting pressure on Israel to let the Palestinians hold elections and , covertly , backing Mahmoud Abbas to become the next Palestinian leader .	O O U-PER O O O O U-GPE O U-GPE O O O O O O O O O B-PER L-PER O O O O U-LOC O O O O U-GPE O O B-GPE L-GPE O O O O O O O B-PER L-PER O O B-PER I-PER I-PER|U-GPE L-PER O
+A second reason is Europe ' s growing worries about Islamic terrorism .	O O O O U-GPE O O O O O U-PER O O
+The murder in November of Theo van Gogh , a provocative Dutch filmmaker , at the hands of an Islamic militant has been called Europe ' s 9 / 11 .	O O O O O B-PER I-PER L-PER O B-PER I-PER I-PER|U-GPE L-PER O O O O O B-PER I-PER|U-PER L-PER O O O U-GPE O O O O O O
+Though the two events are obviously not fully comparable , it is certainly true that American conservatives , such as Francis Fukuyama and Bernard Lewis , have found a wider audience recently for the idea that radical Islam is inimical to European traditions of tolerance .	O O O O O O O O O O O O O O O B-PER|U-GPE L-PER O O O B-PER L-PER O B-PER L-PER O O O B-PER I-PER L-PER O O O O O O O O O O U-GPE O O O O
+You mean those radical muslims can be kinda nasty sometimes ?	U-PER O B-PER I-PER L-PER O O O O O O
+Get outta here . . . . Keep doing business like the cowards in Spain and they will more then likely have their very own 9 / 11 to cry about .	O O O O O O O O O O O B-PER I-PER I-PER L-PER|U-GPE O U-GPE O O O O O U-GPE O U-GPE O O O O O O O
+The third force is the reappearance , albeit in a milder form , of the threat that kept the trans - Atlantic alliance together for half a century .	O O O O O O O O O O O O O O O O O O B-GPE I-GPE|B-LOC I-GPE|I-LOC I-GPE|L-LOC L-GPE O O O O O O
+The Russian bear is growling again .	B-GPE I-GPE|U-GPE L-GPE O O O O
+The Ukrainian election - - - complete with its KGB - style poisoning of the opposition leader and heavy - handed electoral fraud - - has reminded European diplomats of Vladimir V . Putin ' s determination to control his " near abroad . "	O U-GPE O O O O O O O U-ORG O O O O B-PER I-PER L-PER O O O O O O O O O O B-PER|U-GPE L-PER O B-PER I-PER I-PER L-PER O O O O O B-LOC|U-PER I-LOC I-LOC L-LOC O O
+They should be very worried about this item , I believe Putin is slowly sliding Russia back to what it once was .	U-PER O O O O O O O O U-PER O U-PER O O O U-GPE O O O U-GPE O O O
+Hopefully our Government isn ' t asleep at the wheel with this situation either .	O B-GPE|U-GPE L-GPE O O O O O O O O O O O O
+There is a personal edge to all this .	O O O O O O O O O
+Just as the snooty continentals eventually came to admire the gormless Hollywood actor , there is a grudging willingness to rethink some prejudices about the inarticulate Texan .	O O B-PER I-PER L-PER O O O O B-PER I-PER I-PER|U-ORG L-PER O O O O O O O O O O O B-PER I-PER L-PER O
+Many European leaders once swallowed the Michael Moore version of history : that Bush was an ignorant interloper who stole the White House .	B-PER I-PER|U-GPE L-PER O O O B-PER L-PER O O O O O U-PER O B-PER I-PER I-PER I-PER|U-PER I-PER I-PER|B-ORG I-PER|I-ORG L-PER|L-ORG O
+His thumping re - election , however , shows that he represents a large body of conservative American opinion .	U-PER O O O O O O O O O U-PER O O O O O B-GPE L-GPE O O
+In short , Europeans are getting used to the idea that it is not Bush who is the exception , but the U . S . itself that is exceptional - - - and that if they want to deal with this exceptional superpower they need to humor it rather than rile it .	O O O U-GPE O O O O O O O O O O U-PER U-PER O B-PER L-PER O O B-GPE I-GPE I-GPE L-GPE O U-GPE O O O O O O O O O U-GPE O O O O B-GPE I-GPE L-GPE U-GPE O O O U-GPE O O O U-GPE O
+Strangely enough , this has been Tony Blair ' s strategy all along ; it is rapidly becoming the Continent ' s strategy , too .	O O O O O O B-PER L-PER O O O O O O O O O O B-GPE L-GPE O O O O O O
+Couldn ' t of ended that article any better myself .	O O O O O O O O O U-PER O
+Get used to it France , we ain ' t going nowhere .	O O O O U-GPE O U-GPE O O O O U-LOC O
+And so it ' s come down to this . . .	O O O O O O O O O O O O
+It ' s Auburn - Georgia week , ladies and gentlemen .	O O O U-ORG O U-ORG O O U-PER O U-PER O
+After all the smack talk that ' s gone on for the last 360 days , and all of the games that both teams have played and the hopes each had for the 2004 season , it ' s come down to this .	O O O O O O O O O O O O O O O O O O O O O O B-ORG L-ORG O O O O O U-ORG O O O O O O O O O O O O O O
+To stay undefeated and alive for a chance at the BCS title game , Auburn must win this Saturday in it ' s 3 : 30 EST game on CBS against the Georgia Bulldogs .	O O O O O O O O O O U-ORG O O O U-ORG O O O O O B-ORG I-ORG L-ORG O O O O O O U-ORG O B-ORG I-ORG L-ORG O
+If they hope to move up from their current number five ranking and keep the hope alive of playing in the SEC Title Game in December , Georgia must beat Auburn .	O U-ORG O O O O O U-ORG O O O O O O O O O O O O O U-ORG O O O O O U-ORG O O U-ORG O
+This game is as good as it gets .	O O O O O O O O O
+Sure , Auburn ' s in - state rival is Alabama , but year in and year out , this game , the Auburn - UGA game , seems like the one that matters more .	O O B-ORG|U-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O U-ORG O O O O O O O O O O O O U-ORG O U-ORG O O O O O O O O O O
+I seldom if ever root for Bama , but I always root for UGA to be undefeated when the play Auburn .	U-PER O O O O O U-ORG O O U-PER O O O U-ORG O O O O U-ORG O U-ORG O
+The game is big enough already , but it seems even bigger when one or both teams have something on the line .	O O O O O O O O O O O O O B-ORG I-ORG I-ORG L-ORG O O O O O O
+Yes , both teams have other games left to play and yes , other teams ' results may affect what happens to both of these teams , but in just five days , these two teams will play the biggest and most important game of their season .	O O B-ORG L-ORG O O O O O O O O O B-ORG L-ORG O O O O O O O B-ORG I-ORG I-ORG L-ORG O O O O O O O B-ORG I-ORG L-ORG O O O O O O O O O U-ORG O O
+So now it ' s time for all of the yapping and jawing and talking shit that goes with this game .	O O O O O O O O O O O O O O O O O O O O O O
+Except I don ' t do that .	O U-PER O O O O O O
+I can ' t do that .	U-PER O O O O O O
+Anytime I try to talk shit , I get all nauseous and worry about what happens not if but WHEN we lose .	O U-PER O O O O O U-PER O O O O O O O O O O O O U-ORG O O
+I don ' t know if it ' s just me or if being this pragmatic is what it means to be an Auburn fan .	U-PER O O O O O O O O O U-PER O O O O O O O O O O O B-PER I-PER|U-ORG L-PER O
+I wonder if deep down THIS is what it feels like to be a Red Sox fan : regardless of where you are or what is happening to your team , deep down you don ' t just think , you KNOW something bad is going to happen .	U-PER O O O O O O O O O O O O B-PER I-PER|B-ORG I-PER|L-ORG L-PER O O O O U-PER O O O O O O B-ORG|U-PER L-ORG O O O U-PER O O O O O O U-PER O O O O O O O O
+Anyway , I am flying my flag on my house with pride and I am looking forward to the game that , year in and year out , gives us the best hitting and mos entertaining football played on the highest level .	O O U-PER O O U-PER O O B-FAC|U-PER L-FAC O O O U-PER O O O O O O O O O O O O O O O U-PER O O O O O O O O O O O O O
+It ' s SEC football at it ' s core .	O O O U-ORG O O O O O O O
+War Eagle .	B-PER L-PER O
+It ain ' t much . . .	O O O O O O O O
+Sorry I haven ' t been posting much lately .	O U-PER O O O O O O O O
+We have been so damned busy with the holidays ( that ' s what we call December at our house ) that I just haven ' t had time .	U-PER O O O O O O O O O O O O O U-PER O O O B-FAC|U-PER L-FAC O O U-PER O O O O O O O
+I read a funny joke today and I thought I ' d share it with you .	U-PER O O O O O O U-PER O U-PER O O O O O U-PER O
+One of my fellow eggers posted it , so Chet , here ' s your credit :	B-PER I-PER I-PER|B-PER|U-PER I-PER|I-PER L-PER|L-PER O O O O U-PER O O O O U-PER O O
+A traveler was driving through Arkansas when he lost his way and got off the main highway .	B-PER L-PER O O O U-GPE O U-PER O U-PER O O O O B-FAC I-FAC L-FAC O
+As he drove by , he saw rows and rows of pigsties and pigpens and pigs running in fields and pigs wallowing in mud .	O U-PER O O O U-PER O B-FAC|B-FAC I-FAC|I-FAC I-FAC|I-FAC I-FAC|I-FAC I-FAC|I-FAC I-FAC|I-FAC L-FAC|L-FAC O O O O U-LOC O O O O O O
+Suddenly , his eye caught something really strange .	O O U-PER O O O O O O
+He did a double take , muttered to himself and then looked a third time .	U-PER O O O O O O O U-PER O O O O O O O
+He wondered if he had seen correctly - it looked like a pig with a wooden leg !	U-PER O O U-PER O O O O O O O O O O O O O O
+He found the lane to the farm and drove up into the farmyard , where he was met by the farmer .	U-PER O B-FAC I-FAC I-FAC I-FAC|B-FAC L-FAC|L-FAC O O O O B-FAC I-FAC I-FAC I-FAC|U-FAC I-FAC|U-PER I-FAC I-FAC I-FAC I-FAC|B-PER L-FAC|L-PER O
+" Excuse me , " the traveler said .	O O U-PER O O B-PER L-PER O O
+" I was just driving by and looking at all your pigs , and I noticed something that I just had to stop and ask about .	O U-PER O O O O O O O O U-PER O O O U-PER O O O U-PER O O O O O O O O
+Tell me , did I see right ?	O U-PER O O U-PER O O O
+Is there really a pig out there with a wooden leg ? "	O O O O O O O O O O O O O
+The farmer smiled .	B-PER L-PER O O
+" Oh , that would be old Caesar you saw .	O O O O O O O O U-PER O O
+He ' s the finest pig a man could ever hope to have - and smart !	O O O O O O B-PER L-PER O O O O O O O O O
+Well , let me tell you a little about that pig .	O O O U-PER O U-PER O O O O O O
+You see that barge down there on the river ?	U-PER O B-VEH I-VEH I-VEH I-VEH I-VEH I-VEH|B-LOC L-VEH|L-LOC O
+That ' s a mining dredge , taking out platinum ore . Old Caesar sniffed out the vein and showed us how to set it up .	O O O B-VEH I-VEH I-VEH I-VEH I-VEH I-VEH I-VEH L-VEH O O O O O O O O O U-PER O O O O O O
+Now that dredge brings me in about $ 120 , 000 every year .	O B-VEH L-VEH O U-PER O O O O O O O O O
+" There ' s another thing , too , a little more personal .	O O O O O O O O O O O O O O
+One night a couple of years ago I got to drinking and I guess I had more than I should have .	O O O O O O O U-PER O O O O U-PER O U-PER O O O U-PER O O O
+I passed out drunk , fell down and knocked over a lamp .	U-PER O O O O O O O O O O O O
+That started a fire in the house and old Caesar smelled the smoke .	O O O O O B-FAC L-FAC O O O O O O O
+He came in the back door , got the wife and kid out , roused me up and got me out .	O O O O O O O O B-PER L-PER O U-PER O O O U-PER O O O U-PER O O
+" There is no question about it - that night old Caesar saved all our lives and you know that is not the sort of thing a man is going to forget too easily . "	O O O O O O O O O O O O O O U-PER O O U-PER O O O O O O O O B-PER L-PER O O O O O O O O
+" Why , " the traveler said , " this is all amazing !	O O O O B-PER L-PER O O O O O O O O
+I have never heard of a pig like this before !	U-PER O O O O O O O O O O
+This is fantastic !	O O O O
+But tell me , how did he get that wooden leg ?	O O U-PER O O O O O O O O O
+Was he in a wreck or something ? "	O O O O O O O O O
+The farmer laughed and said , " Well , naturally , when you have a pig that smart , you don ' t want to eat him all at one time ! "	B-PER L-PER O O O O O O O O O O U-PER O O O O O O U-PER O O O O O O O O O O O O O
+Who saw this coming ?	O O O O O
+Much like the " I told you so ' s " everyone is throwing at the UGA basketball program after their hiring and subsequent firing of The Harricks , folks around the Buckeye state have to be having similar thoughts .	O O O O U-PER O U-PER O O O O U-PER O O O B-ORG I-ORG|U-ORG I-ORG L-ORG O U-ORG O O O O O B-PER L-PER O B-PER I-PER I-PER|B-GPE I-PER|I-GPE L-PER|L-GPE O O O O O O O
+It seems that AD and frequent " No we didn ' t " Ohio State front man Andy Geiger is " retiring " after 11 years at the helm .	O O O B-PER|B-PER|B-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER I-PER|I-PER|I-PER|B-ORG I-PER|I-PER|I-PER|L-ORG I-PER|I-PER|I-PER I-PER|L-PER|L-PER I-PER L-PER O O O O O O O O O O O
+Maybe it ' s me , but I ' m guessing Andy ' s tired of putting on TV makeup and going on the news lying about what he or Tressel knew about their athletes in general and their football program in particular .	O O O O U-PER O O U-PER O O O U-PER O O O O O O O O O O O O O O O O U-PER O U-PER O O B-PER|U-PER I-PER I-PER L-PER O B-ORG|U-PER I-ORG I-ORG I-ORG L-ORG O
+It seems that Maurice Clarrett - gate just isn ' t going away .	O O O B-PER L-PER O O O O O O O O O
+Two years ago , everyone was saying " shame on you , Maurice .	O O O O U-PER O O O O O U-PER O U-PER O
+You should have known better . "	U-PER O O O O O O
+Now , it seems like most folks are saying " Shame on you both Andy and Jim .	O O O O O B-PER L-PER O O O O O B-PER L-PER U-PER O U-PER O
+YOU both should have know better . "	B-PER L-PER O O O O O O
+Allegations have come to light that several OSU players received illegal benefits including cash , access to cars , etc .	O O O O O O B-PER I-PER|U-ORG L-PER O O O O O O O O U-VEH O O O
+Now , I don ' t expect the AD and coach to know everything , but when a player is driving a brand new car every couple of weeks or months , well , somebody ought to jot a memo and get to the bottom of that .	O O U-PER O O O O B-PER|B-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O O O O O B-PER L-PER O O B-VEH I-VEH I-VEH L-VEH O O O O O O O O O U-PER O O O O O O O O O O O O O
+It shouldn ' t surprise Buckeye fans either , since Tressel had similar problems at Youngstown State , and left a wake of controversy behind himself there as well , including ( surprise ) illegal benefits including cash , cars , grade fixing , etc .	O O O O O B-PER|U-ORG L-PER O O O U-PER O O O O B-ORG L-ORG O O O O O O O O U-PER O O O O O O O O O O O O O U-VEH O O O O O O
+Geiger is also tired from saying " we didn ' t do anything wrong " about his basketball program .	U-PER O O O O O O U-PER O O O O O O O O B-ORG|U-PER I-ORG L-ORG O
+Of course , it was discovered that his men ' s basketball coach had directly given six grand to a Yugoslavian recruit , but that was just his stipend for travel and coach Jim O ' Brien was just having a problem with the currency exchange rates . . . right Andy ?	O O O O O O O B-PER|U-PER I-PER|B-ORG I-PER|I-ORG I-PER|I-ORG I-PER|L-ORG L-PER O O O O O O B-PER I-PER|U-GPE L-PER O O O O O U-PER O O O O B-PER|U-PER I-PER I-PER I-PER L-PER O O O O O O O O O O O O O O U-PER O
+I only hope that the NCAA will do something they rarely do : make a good sound decision and take away Ohio State ' s national title from January 2003 .	U-PER O O O B-ORG L-ORG O O O U-ORG O O O O O O O O O O O B-ORG L-ORG O O O O O O O O
+It seems they had a very important and very ineligible player that season , and maybe many .	O O U-ORG O B-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O O O U-PER O
+I ' d hate to give another title to Thugtown Miami , but I ' d give it to Alabama before I ' d think it was okay for Ohio State to keep .	U-PER O O O O O O O O B-ORG L-ORG O O U-PER O O O O O U-ORG O U-PER O O O O O O O B-ORG L-ORG O O O
+Everlast ' s Rally Just Might Live up to the Name	O O O O O O O O O O O
+Microscopic microcap Everlast , mainly a maker of boxing equipment , has soared over the last several days thanks to a licensing deal with Jacques Moret allowing Moret to buy out their women ' s apparel license for $ 30 million , on top of a $ 12 . 5 million payment now .	B-ORG I-ORG L-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O O O O O O O O O O O O O O B-ORG L-ORG O U-ORG O O O U-ORG U-PER O O O O O O O O O O O O O O O O O O O O O
+In other words , a competitor has decided that one segment of the company ' s business is potentially worth $ 42 . 5 million .	O O O O B-ORG L-ORG O O O O O O B-ORG L-ORG O O O O O O O O O O O O
+Investors have prudently valued the remaining business - - the extremely well - known Everlast brand , the possible new reality TV show , and most of the company ' s assets - - at a negative $ 16 . 5 million .	U-PER O O O B-ORG I-ORG L-ORG O O O O O O O U-ORG O O O O O O O O O O O O B-ORG L-ORG O O O O O O O O O O O O O O
+The company ' s stock would have to rise more than 50 % from the current level to put a zero value on that business .	B-ORG L-ORG O O O O O O O O O O O O O O O O O O O O O B-ORG L-ORG O
+And , who knows ?	O O U-PER O O
+It might .	O O O
+Sirius Satellite - - Brilliant Plan , or Grasping at Straws ?	O O O O O O O O O O O O
+Mel Karmazin is pushing to add Sirius Satellite services to iPods - - an interesting idea , inasmuch as it seems to defeat the purpose of both .	B-PER L-PER O O O O B-ORG L-ORG O O O O O O O O O O O O O O O O O O O O
+The iPod ' s the tiniest possible container for vast music libraries , and Sirius is a way to get at lots of content when said music library is unavailable .	O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O
+On the other hand , Karmazin and Jobs are two of the smartest dealmakers around , so they might find a way to structure this or spin it to the benefit of everyone .	O O O O O U-PER O U-PER O B-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O O U-PER O O O O O O O O O O O O O O U-PER O
+My main suspicion is that this is Karmazin hoping to see the phrase " Mel Karmazin , CEO [ " That ' s right , " Mel says to himself , " C - E - friggin - O ! " ]	U-PER O O O O O O U-PER O O O O O O B-PER L-PER O O O O O O O O O O U-PER O O U-PER O O B-PER I-PER I-PER I-PER I-PER I-PER L-PER O O O
+of Sirius Satellite Radio . . . "	O B-ORG I-ORG L-ORG O O O O
+Steve Jobs knows a bad idea when he ' s pitched it , for exactly the reasons you point out .	B-PER L-PER O O O O O U-PER O O O O O O O O O U-PER O O O
+Plus , a satellite receiver burns a lot of power , even if it could be made tiny .	O O O U-FAC O O O O O O O O O O O O O O O
+On the other hand , the guy has convinced some very smart people to spend huge sums on stupid ideas - - there isn ' t much talk about it now , but back when his reputation wasn ' t so hot ( late ' 80s ) , lots of journalists talked about the " Steve Jobs Reality Distortion Field . "	O O O O O B-PER L-PER O O B-PER I-PER I-PER L-PER O O O O O O O O O O O O O O O O O O O O O O U-PER O O O O O O O O O O O O B-PER I-PER L-PER O O O O B-PER L-PER O O O O O
+He could get people to ignore every single technical obstacle to an idea , and invest on the basis of something beautifully , but ridiculously , simple .	U-PER O O U-PER O O O O O O O O O O O O O O O O O O O O O O O O
+Basically , he sells the future ; the iPod and the Mac Mini are just times he got lucky and the future caught up .	O O U-PER O O O O O O O O O O O O O U-PER O O O O O O O O
+I ' m the president .	U-PER O O B-PER L-PER O
+Oh yea !	O O O
+Oh yea !	O O O
+( you dumbass )	O B-PER|U-PER L-PER O
+commercial A video of a commercial in case nobody knows what I " m talking about = )	O O O O O O O O U-PER O O U-PER O O O O O O
+Blockbuster / Hollywood - - A debt - based hostile takeover ?	O O O O O O O O O O O O
+I ' ve been keeping a careful eye on the Blockbuster / Hollywood machinations for a while ( and well I should - - I have stock in one of the deal ' s participants , Movie Gallery ) , but even so I ' m surprised that Blockbuster ' s latest gambit is to buy up Hollywood ' s debt .	U-PER O O O O O O O O O U-ORG O U-ORG O O O O O O O U-PER O O O U-PER O O O B-ORG I-ORG I-ORG|B-ORG I-ORG|I-ORG I-ORG|I-ORG I-ORG|I-ORG L-ORG|L-ORG O B-ORG L-ORG O O O O O U-PER O O O O U-ORG O O O O O O O O U-ORG O O O O
+It ' s an admirable hedge - - if Movie Gallery wins , it could improve Hollywood ' s rating , and either way it offers Blockbuster some leverage .	O O O O O O O O O B-ORG L-ORG O O O O O U-ORG O O O O O O O O O U-ORG O O O
+And this is , as far as I know , the first time since the Allegheny deal that there ' s been a hostile takeover using debt .	O O O O O O O U-PER O O O O O O O U-ORG O O O O O O O O O O O O
+Icahn ' s back !	O O O O O
+You ' d think he was busy enough with Blockbuster and Hollywood , but Carl Icahn is once again going after Mylan labs .	U-PER O O O U-PER O O O O U-ORG O U-ORG O O B-PER L-PER O O O O O B-ORG L-ORG O
+I ' d love to call it a classic raid - - he ' s making an offer for the company , nominating his own board , claiming management can accept one or the other or both , and hinting that if they paid him enough , he ' d probably go away .	U-PER O O O O O O O O O O O U-PER O O O O O O B-ORG L-ORG O O B-PER|U-PER I-PER L-PER O O U-PER O O O O O O O O O O O O O U-PER O U-PER O O U-PER O O O O O O
+But the whole point of raiding is to outsmart an opponent , and that means the strategy changes constantly .	O O O O O O O O O B-PER L-PER O O O O O O O O O
+In this case , the most interesting twist is that he ' s shorting shares of Mylan ' s acquisition target , King Pharmaceuticals ; he ' s basically doubling down on the bet that they won ' t acquire .	O O O O O O O O O O U-PER O O O O O B-ORG|U-ORG I-ORG I-ORG I-ORG L-ORG O B-ORG L-ORG O U-PER O O O O O O O O O U-ORG O O O O O
+Not only that , but if Mylan bought him out , they ' d have less money to fund a purchase of King Pharmaceuticals .	O O O O O O U-ORG O U-PER O O U-ORG O O O O O O O O O O B-ORG L-ORG O
+Either way , he ' s showing a lot of confidence .	O O O U-PER O O O O O O O O
+Given his record , it ' s warranted .	O U-PER O O O O O O O
+Who will lead the revolution ?	O O O O O O
+Would you believe MBAs ?	O O O O O
+For my holiday post , I offer a message of hope for the business world .	O U-PER O O O U-PER O O O O O O O O O O
+In 1994 , I was a graduate student in Boston .	O O O U-PER O B-PER I-PER I-PER I-PER L-PER|U-GPE O
+I was asked to moderate a panel discussion on social entrepreneurship for a conference at Harvard Business School .	U-PER O O O O O O O O O O O O O O B-ORG I-ORG L-ORG O
+The conference was being held by a new group called Students for Responsible Business .	O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG|B-ORG I-ORG|I-ORG I-ORG|I-ORG L-ORG|L-ORG O
+I expected to see a small gathering of idealistic , slightly naive MBA students .	U-PER O O O B-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O
+What I found was a packed room of 200 intelligent , practical , driven idealists .	O U-PER O O B-FAC I-FAC I-FAC I-FAC I-FAC|B-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER I-FAC|I-PER L-FAC|L-PER O
+These students were determined to figure out how to use business as a driver for positive social change .	B-PER L-PER O O O O O O O O O O O O O O O O O
+I left that room with my eyes open to the possibilities presented by these future business leaders .	U-PER O B-FAC L-FAC O U-PER O O O O O O O B-PER I-PER I-PER|U-ORG L-PER O
+Fast forward 10 years .	O O O O O
+Students for Responsible Business is now called Net Impact .	B-ORG I-ORG I-ORG L-ORG O O O B-ORG L-ORG O
+In 2004 , I had the opportunity to attend their conference hosted by The University of Texas McCombs Business School .	O O O U-PER O O O O O U-ORG O O O B-ORG|B-ORG I-ORG|I-ORG I-ORG|I-ORG I-ORG|L-ORG I-ORG I-ORG L-ORG O
+Net Impact had grown to include over 9 , 000 MBA students and alumni .	B-ORG L-ORG O O O O B-PER|B-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER I-PER|I-PER L-PER|L-PER O
+Approximately 900 people attended the 2004 conference .	B-PER I-PER L-PER O O O O O
+The buzz words flying around the conference included social entrepreneurship , sustainable profitability , working with passion .	O O O O O O O O O O O O O O O O O O
+I met student after student intent on harnessing the forces of business and capitalism to improve the world .	U-PER O U-PER O U-PER O O O O O O O O O O O B-LOC L-LOC O
+These students understand that business is a powerful lever of change in this world .	B-PER L-PER O O O O O O O O O O B-LOC L-LOC O
+Recently business schools have received their share of criticism for turning out graduates who seem to have lost sight of their responsibility for ethical action .	O B-ORG L-ORG O O U-ORG O O O O O O B-PER I-PER|U-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER|U-PER I-PER I-PER I-PER L-PER O
+I can tell you that I am seeing a powerful groundswell of change coming from within business schools .	U-PER O O U-PER O U-PER O O O O O O O O O O B-ORG L-ORG O
+It is not coming from the faculty , or the alumni , or the administration .	O O O O O B-PER L-PER O O B-PER L-PER O O B-ORG L-ORG O
+All these groups continue to pay lipservice to topics of social responsibility while avoiding any real innovations in the student experiences .	B-PER I-PER L-PER O O O O O O O O O O O O O O O O U-PER O O
+The change is being demanded by the students .	O O O O O O B-PER L-PER O
+A little secret of business schools is that MBA students have an immense amount of sway .	O O O O B-ORG L-ORG O O B-PER L-PER O O O O O O O
+Few choose to use it , but if they want they can fundamentally change their school .	U-PER O O O O O O O U-PER O U-PER O O O B-ORG|U-PER L-ORG O
+Right now students at business schools are asking for more discussion of these topics in classes , are initiating service projects , forming support group for social entrepreneurs , inviting speakers to campus to discuss sustainability , social investing , non - profit innovations , etc .	O O B-PER I-PER I-PER|B-ORG L-PER|L-ORG O O O O O O O O O O O O O O O O O B-PER I-PER I-PER I-PER|B-PER L-PER|L-PER O O U-PER O U-FAC O O O O O O O O O O O O O O
+Net Impact is often at the center of these efforts .	B-ORG L-ORG O O O O O O O O O
+These are not isolated events . . . This is a revolution from within .	O O O O O O O O O O O O O O O
+I have no doubt that in 10 years we will see the vast positive impact that these students are having in the world of business and society at large .	U-PER O O O O O O O U-PER O O O O O O O B-PER L-PER O O O O O O O O O O O O
+In 1776 Adam Smith spoke of enlightened self - interest in The Wealth of Nations .	O O B-PER L-PER O O O O O O O O O O O O
+I often feel that we have conveniently forgotten his emphasis on enlightened which he defined as being committed to being a good citizen and steward of society .	U-PER O O O U-PER O O O U-PER O O O O U-PER O O O O O O B-PER I-PER I-PER I-PER I-PER|B-PER I-PER|I-PER L-PER|L-PER|U-PER O
+I am excited and hopeful that this new generation of business leaders will bring this emphasis front and center .	U-PER O O O O O B-PER I-PER I-PER I-PER I-PER|B-PER L-PER|L-PER O O O O O O O O
+If you are an MBA student and want a good reference for comparing how MBA programs integrate issues of sustainability and social responsibility into the student experience a good place to start is the Beyond Grey Pinstripes report produced by The Aspen Institute .	O U-PER O B-PER I-PER L-PER O O O O O O O O O O O O O O O O O O O U-PER O O O O O O O O O O O O O O B-ORG I-ORG L-ORG O
+Happy Holidays to everyone !	O O O U-PER O
+It ' s hard to complain about cheap airfares but . .	O O O O O O O O O O O O
+I can ' t for the life of me figure out why anyone would invest in the airline industry .	U-PER O O O O O O O U-PER O O O U-PER O O O B-ORG I-ORG|U-ORG L-ORG O
+Please , someone tell me a group companies facing more serious problems than the legacy airline carriers ( Delta , US Airways , Continental , American , Northwestern , United ) .	O O U-PER O U-PER B-ORG I-ORG I-ORG|U-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG|B-ORG I-ORG|I-ORG I-ORG|I-ORG|U-ORG I-ORG|I-ORG I-ORG|I-ORG I-ORG|I-ORG|U-ORG I-ORG|I-ORG I-ORG|I-ORG|B-ORG I-ORG|I-ORG|L-ORG I-ORG|I-ORG I-ORG|I-ORG|U-ORG I-ORG|I-ORG I-ORG|I-ORG|U-ORG I-ORG|I-ORG I-ORG|I-ORG|U-ORG I-ORG|I-ORG L-ORG|L-ORG|U-ORG O O
+High fuel costs , insane pension obligations , and a highly paid , specialized workforce .	O O O O O O O O O B-PER I-PER I-PER I-PER I-PER L-PER O
+To this list of woes , we add a whole slew of competitors with much lower cost structures .	O O O O O O U-PER O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O
+I admit I ' ve already taken advantage of the lower fares announced last week to book a business trip but these next few years are not going to be pretty for some of these companies .	U-PER O U-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG|B-ORG L-ORG|L-ORG O
+Unfortunately , the pain is not limited to these companies .	O O O O O O O O B-ORG L-ORG O
+Pittsburgh , one of US Airway ' s hubs , built up its airport complete with a sprawling retail complex in the terminal .	U-GPE O B-GPE I-GPE I-GPE|B-GPE|B-ORG I-GPE|I-GPE|L-ORG I-GPE|I-GPE I-GPE|I-GPE L-GPE|L-GPE O O O B-FAC|U-GPE L-FAC O O B-FAC I-FAC I-FAC I-FAC I-FAC I-FAC|B-FAC L-FAC|L-FAC O
+Now US Airways has reduced flights out of Pittsburgh by 28 % since January of 2004 and is in real danger of folding completely .	O B-ORG L-ORG O O O O O U-GPE O O O O O O O O O O O O O O O O
+These shiny new airports are usually financed by long - term bonds that still have to paid off . . . but not by the airlines .	B-FAC I-FAC I-FAC L-FAC O O O O O O O O O O O O O O O O O O O O B-ORG L-ORG O
+This is an industry looking for a sustainable strategy .	U-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O
+Southwest and JetBlue were the only major airlines to earn a profit in 2004 but who knows what will be happening in another five years .	U-ORG O U-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O U-PER O O O O O O O O O O
+So I will thankfully accept the low fares , bemoan the loss of food on flights , and watch these companies parade in and out of bankruptcy .	O U-PER O O O O O O O O O O O O O O O O O B-ORG L-ORG O O O O O O O
+BusinessWeek Online has some other commentary about the fare cuts here and about US Airway ' s woes here .	B-ORG L-ORG O O O O O O O O O O O B-ORG L-ORG O O O O O
+I ' ll take a double shot	O O O O O O O
+Yesterday was a tough day for the Seattle scene .	O O O O O O O U-GPE O O
+Amazon ended the day down 14 . 6 % .	U-ORG O O O O O O O O O
+Starbucks down 8 . 2 % .	U-ORG O O O O O O
+I should disclose that I spent a few years living in Seattle and I have a soft spot in my heart for all things Seattle .	U-PER O O O U-PER O O O O O O U-GPE O U-PER O O O O O U-PER O O O O U-GPE O
+As far as I could tell , many people in the Northwest spend the mornings drinking lattes and their evenings drinking microbrews .	O O O U-PER O O O B-PER I-PER I-PER I-PER|B-LOC L-PER|L-LOC O O O O O O O O O O O
+Really not a bad lifestyle .	O O O O O O
+Anyway , back on topic here .	O O O O O O O
+Market over reaction ?	O O O O
+Hard to say .	O O O O
+Both companies have pricey stocks and those valuations are based on optimistic expectations of future growth .	B-ORG L-ORG O O O O O O O O O O O O O O O
+Yesterday ' s news led many to question their growth assumptions for these companies .	O O O O O U-PER O O U-PER O O O B-ORG L-ORG O
+Today I want to talk a bit about Starbucks .	O U-PER O O O O O O U-ORG O
+I think I have to start by acknowledging that the stock is still pricey even after its drop yesterday .	U-PER O U-PER O O O O O O O O O O O O O O O O O
+However , my organizational indicators analysis reveals a very low level of business risk .	O O U-PER O O O O O O O O O O O O
+This may partially justify a higher P / E ratio .	O O O O O O O O O O O
+A couple weeks ago , I observed that Wal - Mart had offsetting strong and weak organizational indicators .	O O O O O U-PER O O B-ORG I-ORG L-ORG O O O O O O O O
+Starbucks , on the other hand , has uniformly strong organizational indicators .	U-ORG O O O O O O O O O O O O
+Starbucks scores as best in its industry on six of seven organizational indicators .	U-ORG O O O O U-ORG O O O O O O O O
+Not surprising are its strong scores in the employee relations and stakeholder actions indicators .	O O O U-ORG O O O O U-PER O O U-PER O O O
+Its weakest score is in the external reporting indicator .	U-ORG O O O O O O O O O
+In the past , several observers have raised concerns about aggressive accounting at Starbucks but my analysis does not indicate any systematic current issues .	O O O O B-PER L-PER O O O O O O O U-ORG O U-PER O O O O O O O O O
+The weak score is primarily the result of Starbucks current strategy of increasing equity ownership of several foreign subsidiaries .	O O O O O O O O U-ORG O O O O O O O B-ORG I-ORG L-ORG O
+This is a strategic shift that has short - term costs and adds some uncertainty to the financial statements .	O O O O O O O O O O O O O O O O O O O O
+Beyond the strong Organizational Indicator analysis , several additional factors favor Starbucks ability to continue to grow revenues .	O O O O O O O O O O O U-ORG O O O O O O O
+Starbucks has little debt .	U-ORG O O O O
+Starbucks is not currently financing its growth with debt .	U-ORG O O O O U-ORG O O O O
+Considering its growth , this is amazing .	O U-ORG O O O O O O
+It also means that Starbucks has a large amount of flexibility in how it finances future growth .	O O O O U-ORG O O O O O O O O U-ORG O O O O
+The company can assume much more debt without negatively affecting its risk profile because . . .	B-ORG L-ORG O O O O O O O O U-ORG O O O O O O
+Starbucks has a healthy cashflow and current cash position .	U-ORG O O O O O O O O O
+This allows the company to grow without debt .	O O B-ORG L-ORG O O O O O
+You could argue that Starbucks has too much cash and should do more to pass it on to shareholders .	U-PER O O O U-ORG O O O O O O O O O O O O O U-PER O
+This option is another way that Starbucks has retained its flexibility for the future .	O O O O O O U-ORG O O U-ORG O O O O O
+Starbucks is the primary owner of its stores and limits franchising .	U-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG|B-FAC|U-ORG L-ORG|L-FAC O O O O
+While Starbucks does partner ( airlines , airports , Barnes & Noble ) , most of its stores are company owned .	O U-ORG O O O U-ORG O U-FAC O B-ORG I-ORG L-ORG O O B-FAC I-FAC I-FAC|B-FAC|U-ORG L-FAC|L-FAC O U-ORG O O
+From a managerial perspective this greatly simplifies cost structures , product changes , and quality control .	O O O O O O O O O O O O O O O O O
+Taken together all of these factors paint a picture of a company with a very strong future .	O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG L-ORG O
+I cannot say if these factors justify the current share price but I would say that they justify a higher P / E ratio than the industry norm .	U-PER O O O O O O O O O O O U-PER O O O O O O O O O O O O O O O O
+Risk is lower .	O O O O
+Interesting aside : Starbucks is taking over the location in my town that was recently abandoned by Krispy Kreme .	O O O U-ORG O O O B-FAC I-FAC I-FAC I-FAC|B-GPE|U-PER I-FAC|L-GPE I-FAC|U-FAC I-FAC I-FAC I-FAC I-FAC I-FAC|B-ORG L-FAC|L-ORG O
+Disclosure : At the time of this writing I do not own Starbucks stock . . . but I am tempted and might consider a buy next week .	O O O O O O O O U-PER O O O U-ORG O O O O O U-PER O O O O O O O O O O
+I am also tempted to go buy a latte after writing this post .	U-PER O O O O O O O O O O O O O
