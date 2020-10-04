@@ -1,4 +1,4 @@
-# GigaBERT
+## GigaBERT
 This repo contains code and data for [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
 
 	@inproceedings{lan2020gigabert,
@@ -8,11 +8,13 @@ This repo contains code and data for [GigaBERT](https://arxiv.org/pdf/2004.14519
   	  year       = {2020}
   	} 
 
-# Fine-tuning Experiments
+## Fine-tuning Experiments
 Navigate to the task fodler and check run.sh for sample command. 
+
 Modify the file path for configuration file, model checkpoint and vocabulary.
 
-# Checkpoints
-The pre-trained GigaBERT-v3 can be found here: https://drive.google.com/drive/folders/1zgUXz8FQPHmWVNR7tHyPq1E6SmrMuPv6?usp=sharing. 
-The pre-trained GigaBERT-v4 can be found here: https://drive.google.com/drive/folders/1uFGzMuTOD7iNsmKQYp_zVuvsJwOaIdar?usp=sharing.
+## Checkpoints
+The pre-trained models can be found here: [GigaBERT-v3](https://drive.google.com/drive/folders/1zgUXz8FQPHmWVNR7tHyPq1E6SmrMuPv6?usp=sharing) and [GigaBERT-v4](https://drive.google.com/drive/folders/1uFGzMuTOD7iNsmKQYp_zVuvsJwOaIdar?usp=sharing) 
+
+Please contact [Wuwei Lan](lan.105@osu.edu) for more checkpoints, e.g., the original TF checkpoints and different code-switched pre-trained models.
 
