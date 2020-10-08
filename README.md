@@ -11,9 +11,10 @@ This repo contains pre-trained models for [GigaBERT](https://arxiv.org/pdf/2004.
 ## Fine-tuning Experiments
 Please [Yang Chen](https://edchengg.github.io/)'s GitHub for code and data.
 
-Navigate to the task fodler and check run.sh for sample command. 
-
-Modify the file path for configuration file, model checkpoint and vocabulary in main.py.
+<p align="center">
+  <img src="IE_tasks.png" width="400">
+  <br />
+</p>
 
 ## Checkpoints
 The pre-trained models can be found here: [GigaBERT-v3](https://drive.google.com/drive/folders/1zgUXz8FQPHmWVNR7tHyPq1E6SmrMuPv6?usp=sharing) and [GigaBERT-v4](https://drive.google.com/drive/folders/1uFGzMuTOD7iNsmKQYp_zVuvsJwOaIdar?usp=sharing) 
