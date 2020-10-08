@@ -1,5 +1,5 @@
 ## GigaBERT
-This repo contains code and data for [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
+This repo contains code (written by [Yang Chen](https://edchengg.github.io/)) and data for fine-tuning experiments in [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
 
 	@inproceedings{lan2020gigabert,
 	  author     = {Lan, Wuwei and Chen, Yang and Xu, Wei and Ritter, Alan},
