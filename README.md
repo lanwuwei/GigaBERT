@@ -1,5 +1,5 @@
 ## GigaBERT
-This repo contains code (written by [Yang Chen](https://edchengg.github.io/)) and data for fine-tuning experiments in [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
+This repo contains pre-trained models for [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
 
 	@inproceedings{lan2020gigabert,
 	  author     = {Lan, Wuwei and Chen, Yang and Xu, Wei and Ritter, Alan},
@@ -9,6 +9,8 @@ This repo contains code (written by [Yang Chen](https://edchengg.github.io/)) an
   	} 
 
 ## Fine-tuning Experiments
+Please [Yang Chen](https://edchengg.github.io/)'s GitHub for code and data.
+
 Navigate to the task fodler and check run.sh for sample command. 
 
 Modify the file path for configuration file, model checkpoint and vocabulary in main.py.
