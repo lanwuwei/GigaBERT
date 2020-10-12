@@ -9,7 +9,7 @@ This repo contains pre-trained models for [GigaBERT](https://arxiv.org/pdf/2004.
   	} 
 
 ## Fine-tuning Experiments
-Please [Yang Chen](https://github.com/edchengg/GigaBERT)'s GitHub for code and data.
+Please check [Yang Chen](https://github.com/edchengg/GigaBERT)'s GitHub for code and data.
 
 <p align="center">
   <img src="IE_tasks.png" width="400">
