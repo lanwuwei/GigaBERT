@@ -1,5 +1,5 @@
 ## GigaBERT
-This repo contains pre-trained models for [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
+This repo contains pre-trained models and code-switched data generation script for [GigaBERT](https://arxiv.org/pdf/2004.14519.pdf):
 
 	@inproceedings{lan2020gigabert,
 	  author     = {Lan, Wuwei and Chen, Yang and Xu, Wei and Ritter, Alan},
