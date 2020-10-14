@@ -19,5 +19,5 @@ Please check [Yang Chen](https://github.com/edchengg/GigaBERT)'s GitHub for code
 ## Checkpoints
 The pre-trained models can be found here: [GigaBERT-v3](https://drive.google.com/drive/folders/1zgUXz8FQPHmWVNR7tHyPq1E6SmrMuPv6?usp=sharing) and [GigaBERT-v4](https://drive.google.com/drive/folders/1uFGzMuTOD7iNsmKQYp_zVuvsJwOaIdar?usp=sharing) 
 
-Please contact [Wuwei Lan](lan.105@osu.edu) for the original TF checkpoints or code-switched GigaBERT in different versions.
+Please contact [Wuwei Lan](lan.105@osu.edu) for code-switched GigaBERT with different configurations.
 
