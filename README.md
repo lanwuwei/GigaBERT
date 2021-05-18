@@ -3,7 +3,7 @@ This repo contains pre-trained models and code-switched data generation script f
 
 	@inproceedings{lan2020gigabert,
 	  author     = {Lan, Wuwei and Chen, Yang and Xu, Wei and Ritter, Alan},
-  	  title      = {GigaBERT: Zero-shot Transfer Learning from English to Arabic},
+  	  title      = {An Empirical Study of Pre-trained Transformers for Arabic Information Extraction},
   	  booktitle  = {Proceedings of The 2020 Conference on Empirical Methods on Natural Language Processing (EMNLP)},
   	  year       = {2020}
   	} 
