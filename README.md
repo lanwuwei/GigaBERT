@@ -21,3 +21,5 @@ The pre-trained models can be found here: [GigaBERT-v3](https://drive.google.com
 
 Please contact [Wuwei Lan](lan.105@osu.edu) for code-switched GigaBERT with different configurations.
 
+## Checkpoints
+Apache License 2.0
