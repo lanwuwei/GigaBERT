@@ -23,3 +23,6 @@ Please contact [Wuwei Lan](lan.105@osu.edu) for code-switched GigaBERT with diff
 
 ## License
 Apache License 2.0
+
+## Acknowledgement
+This material is based in part on research sponsored by IARPA via the BETTER program (2019-19051600004).
